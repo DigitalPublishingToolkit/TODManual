@@ -1,20 +1,3 @@
----
-Pr-id: Institute of Network Cultures
-P-id: TOD Manual
-A-id: 10
-Type: article
-Book-type: anthology
-Anthology item: article
-Item-id: unique no.
-Article-title: title of the article
-Article-status: accepted
-Author: name(s) of author(s)
-Author-email:   corresponding address
-Author-bio:  about the author
-Abstract:   short description of the article (100 words)
-Keywords:   epub, pandoc, conversion, hybrid, workflow, publishing, arts publishing, styles, css, markdown, design, ebooks, epub3, GitHub
-Rights: CC BY-NC 4.0
-...
 
 
 # Manual: How to produce a Theory on Demand
@@ -200,32 +183,33 @@ validator</a> for smaller ePubs (under 10MB). The validator will show you where 
 
 ### Step 5.1 Create icmls
 
-### Step 5.2 load icmls in Indesign 
-
-### Step 5.3 Design your book
-
-### Step 5.4 Export your book
-
-### Step 5.5 Design cover 
 
 #6. Publish the book 
-How to publish the theory on demand online
+How to publisch the theory on demand online
 
 ###Step 6.1 Issuu 
 - On Issuu the publication should be set with the cover and single pages in one single PDF
 - After the cover follows a white page
-- In the case the cover is in a different file use Adobe Acrobat to merge the PDF: [http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html](http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html)
+- In the case the cover is in a different file use Adobe Acrobat to merge the PDF: [http://www.dummies.com/howto/
+content/insertinganddeletingpagesinpdfdocumentswith.
+html](http://www.dummies.com/howto/
+content/insertinganddeletingpagesinpdfdocumentswith.
+html)
 
 Go to [http://issuu.com/login?](http://issuu.com/login?) and login as INC: <br />
 
 	user: info@networkcultures.org
-	pass: videovortexClick on upload: Upload your PDF and fill out the form:  <br />
+	pass: videovortex
+
+Click on upload: Upload your PDF and fill out the form:  <br />
 
  - replace the automatically added title;
  - add description (take this from the back cover text); 
  - add date; 
  - click Allow download and leave the visibility on Public.
- - and then Publish!Now you should be able to see your publication in [http://issuu.com/home/publications](http://issuu.com/home/publications)
+ - and then Publish!
+
+Now you should be able to see your publication in [http://issuu.com/home/publications](http://issuu.com/home/publications)
 
 ###Step 6.2 LULU 
 
@@ -235,8 +219,15 @@ In this case we will need two PDFs:
 - Spreadsheet for the cover (with spine)
 
 Go to [http://www.lulu.com/](http://www.lulu.com/)
-		user: margreet@networkcultures.org		pass: INC05a20- Click on Creëren / Create and choose Print book Onthe next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and endby clicking **‘Dit boek maken’** in the orange arrow:
-- Fill in your Title and Author(s) and leave the first options (Lulu, Amazon, Barnes and Nobles) selected 
+
+		user: margreet@networkcultures.org
+		pass: INC05a20
+
+- Click on Creëren / Create and choose Print book On
+the next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and end
+by clicking **‘Dit boek maken’** in the orange arrow:
+
+- Fill in your Title and Author(s) and leave the first options (Lulu, Amazon, Barnes and Nobles) selected 
 - Add the ISBN to the publication, **don’t add the barcode**
 - Click on Choose File and select your inside PDF, then click on **Upload**
 - Click on **“Make PrintReady File”**
@@ -246,8 +237,13 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 - Set the price as the minimum suggested by the platform and click on review project
 - Finally review your project and then click on **“Save and Finish”**. If you click on the blue title you should see your book for sale on Lulu
 
-###Step 6.3 Upload in INC pageEmbed the book on [http://networkcultures.org/](http://networkcultures.org/). In this last part we will create the page for the publication on the INC blog.
-Login to [http://networkcultures.org/](http://networkcultures.org/)- Go over Publications and click on **Add New**; fill the form with title of the book
+###Step 6.3 Upload in INC page
+Embed the book on [http://networkcultures.org/](http://networkcultures.org/). In this last part we will create the page for the publication on the INC blog.
+
+Login to [http://networkcultures.org/](http://networkcultures.org/)
+
+
+- Go over Publications and click on **Add New**; fill the form with title of the book
 - Go to the Issuu page relative to the publication and click the **embed button**
 - Click on styling option and change the **width to 600**
 - Check **“Use on Tumblr, Wordpress or similar”**, click on Save style and then copy the **Embed** code
@@ -257,9 +253,45 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 
 		<a class="pwk-link" style="float: left;margin-right: 15px" href="http://networkcultures.org/wp-content/uploads/2017/02/KennethWerbinTheListServes22.pdf"><img class="alignnone wp-image-4032 size-full" src="http://networkcultures.org/wp-content/uploads/2014/04/inc_icon_pdf_@2x.png" alt="inc_icon_pdf_@2x" width="42" height="42" /></a><a class="pwk-link" style="float: left;margin-right: 15px" href="http://issuu.com/instituteofnetworkcultures/docs/playfulmappinginthedigitalageissue?e=3130431/41821881"><img class="alignnone size-full wp-image-4031" src="http://networkcultures.org/wp-content/uploads/2014/04/inc_icon_issuu_@2x.png" alt="inc_icon_issuu_@2x" width="42" height="42" /></a> <a class="pwk-link" href="http://www.lulu.com/shop/kenneth-c-werbin/the-list-serves/paperback/product-23062384.html" target="_blank"><img class="alignnone wp-image-4057" src="http://networkcultures.org/wp-content/uploads/2014/04/inc_icon_lulu_@2x.png" alt="inc_icon_lulu_@2x" width="42" height="42" /></a><a class="pwk-link" style="clear: both;margin-right: 15px" href="http://networkcultures.org/_uploads/TheListServes.epub" target="_blank"><img class="alignnone wp-image-4033 size-full" src="http://networkcultures.org/wp-content/uploads/2014/04/inc_icon_epub_@2x.png" alt="inc_icon_scribd_@2x" width="42" height="42" /></a>
 
-- Add a (small) cover image- Add colophon info to the Info box
+- Add a (small) cover image
+- Add colophon info to the Info box
 - Don’t add a link in the download area 
-- Click on Publish, you should finally see you publication in [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+- Click on Publish, you should finally see you publication in [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+
+
+
+
+
+
+#Markdown Syntax basics 
+
+#Header 1
+##Header 2 
+###Header 3
+
+This is [an example](http://example.com/ "Title") of an inline link.
+
+Line break <br />
+
+**Bold** -
+*Italics* -
+***or both***
+
+> This is a blockquote: Lorem ipsum dolor sit amet,
+> consectetuer adipiscing elit. Aliquam hendrerit mi posuere lectus.
+> Vestibulum enim wisi, viverra nec, fringilla in, laoreet vitae, risus.
+
+This is an image ![](imgs/syntax.jpg) Make sure your image is in the imgs folder that is located in the md(markdown) folder. 
+
+For more information see [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
+
+This is how footnotes work[^01syntax_1]:
+This is how footnotes work[^01syntax_2]:
+
+[^01syntax_1]: You can find them at the end of you .md document! 
+[^01syntax_2]: Make sure they are properly numbered! 
+
+
 
 
 

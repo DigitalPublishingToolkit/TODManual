@@ -125,22 +125,22 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #87ccd3 solid;
+    border-left: 1px #e74011 solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #87ccd3;
+a { color: #e74011;
     text-decoration: none;
   }
 
-a:hover { color: #87ccd3;
+a:hover { color: #e74011;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px #87ccd3 solid;
+    border: 1px #e74011 solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
@@ -149,15 +149,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px #87ccd3 solid;
+    border-bottom: 1px #e74011 solid;
     color: #FFF;
-    background: #87ccd3;
+    background: #e74011;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #87ccd3 solid;
-    border-right: 1px #87ccd3 solid;
+    border-left: 1px #e74011 solid;
+    border-right: 1px #e74011 solid;
 }
 
 th, td {

@@ -20,7 +20,11 @@ This is an image ![](imgs/syntax.jpg) Make sure your image is in the imgs folder
 
 For more information see [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
 
+This is how footnotes work[^01syntax_1]:
+This is how footnotes work[^01syntax_2]:
 
+[^01syntax_1]: You can find them at the end of you .md document! 
+[^01syntax_2]: Make sure they are properly numbered! 
 
 
 
