@@ -248,10 +248,8 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 
 ###Step 6.3 Upload in INC pageEmbed the book on [http://networkcultures.org/](http://networkcultures.org/). In this last part we will create the page for the publication on the INC blog.
 Login to [http://networkcultures.org/](http://networkcultures.org/)- Go over Publications and click on **Add New**; fill the form with title of the book
-- Go to the Issuu page relative to the publication and click the **embed button**
-- Click on styling option and change the **width to 600**
-- Check **“Use on Tumblr, Wordpress or similar”**, click on Save style and then copy the **Embed** code
-- Paste the embed code at the top of the content box according to the series, check the correct category. It should look like this: 
+- Go to the Issuu page relative to the publication and click copy the link
+- Paste the url at the top of the content box according to the series, check the correct category. It should look like this: 
 			
 		[embed]http://issuu.com/instituteofnetworkcultures/docs/issuethelistserveskwerbin?e=3130431/44189048[/embed]
 
