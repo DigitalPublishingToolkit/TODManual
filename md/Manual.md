@@ -71,7 +71,8 @@ Make sure you login your Github desktop:
 
 ###Step 2.1  Styling the manuscript inside Word: introducing structural meaning to the text
 
-- Avoid any special characters in the title and number them properly: 01colophone, 02introduction, 03chapter1 etc. 
+- Prepare your text document accourding the INC style guide. 
+- Avoid any special characters in the titles and number them properly: 01colophone, 02introduction, 03chapter1 etc. 
 
 
 #3. Prepare repository 
@@ -108,10 +109,8 @@ Copy folders from this repository (TOD manual) to your own theory on demand repo
 - put any images (.jpg or .png) in the 'imgs' folder inside the markdown folder except the cover
 - the cover.jpg image belongs in the epub folder
 
-
-####MAKE SURE YOU UPLOAD ALL CHANGES TO THE REPOSITORY ON GITHUB.ORG BY CLICKING 'COMMIT TO MASTER' IN THE GITHUB DESKTOP
+####MAKE SURE YOU UPLOAD ALL CHANGES TO THE REPOSITORY ON GITHUB.ORG BY CLICKING 'COMMIT TO MASTER' AND 'SYNC' IN THE GITHUB DESKTOP 
 ![](imgs/commit.png)
-
 
 #4 Make Epub 
 
@@ -120,8 +119,7 @@ Copy folders from this repository (TOD manual) to your own theory on demand repo
 - Use the command line to navigate to the Resources folder (that you renamed). You will need some knowledge of using the command line, you can find help with this <a
 href="http://en.flossmanuals.net/command-line/getting-started/">here</a>. You can navigate to that specific folder by typing:
 
-		cd (with a space at end) and dragging and dropping to the terminal the 
-		specific folder, and pressing enter.
+		cd (with a space at end) and dragging and dropping to the terminal the specific folder, and pressing enter.
 		
 	![](imgs/terminal1.png)
 
@@ -160,7 +158,7 @@ Now that you have markdown file(s), you can create an epub:
 
 - open the terminal and type in command line:
 
-		book.make epub
+		make book.epub
 	![](imgs/terminal3.png)
 
 - Check the resources folder to see your book.epub file, which you can open with Calibre or iBooks.
@@ -194,19 +192,59 @@ validator</a> for smaller ePubs (under 10MB). The validator will show you where 
 
 - The error occurs in chapter ch002.xhtml, line 47, there's an explanation that a 'referenced resource is missing', but it helps a lot to edit the book in <a href="http://calibre-ebook.com/download">Calibre</a> and further diagnose that in this case an image is missing.
 
-####MAKE SURE YOU UPLOAD ALL CHANGES TO THE REPOSITORY ON GITHUB.ORG BY CLICKING 'COMMIT TO MASTER' IN THE GITHUB DESKTOP
+####MAKE SURE YOU UPLOAD ALL CHANGES TO THE REPOSITORY ON GITHUB.ORG BY CLICKING 'COMMIT TO MASTER' AND 'SYNC' IN THE GITHUB DESKTOP 
 
 #5 Make PDF 
 
 ### Step 5.1 Create icmls
+- Use the command line to navigate to the Resources folder (that you renamed). You can navigate to that specific folder by typing:
+
+		cd (with a space at end) and dragging and dropping to the terminal the specific folder, and pressing enter.
+
+- Use the command line to convert your md files to icml files by typing:
+
+		make icmls, and press enter. 
+
+You can find the icmls in the icml folder.
 
 ### Step 5.2 load icmls in Indesign 
+- Copy the TemplateTOD.indd files in the InDD folder and rename all files and make sure you do not use any special characters:
+		
+		01colophone
+		02acknologments 
+		03introduction 
+		04chapter1 
+
+- Drop and drag your icml files in the Indesign document(s).
+- Before you are able to edit/design the text in indesign make sure you check out: 
+		
+		Edit > Incopy > Check Out 
+
+Now you are able to edit your text. 
 
 ### Step 5.3 Design your book
+- Use the paragraphs styles 
+- H1, H2, H3, titles use Lato font
+- Body text use Trade Gothic Light
 
 ### Step 5.4 Export your book
+- To export the entire book make use of the book function. Go to:
+
+		File > New > Book
+		And safe the book in the InDD folder
+		
+- Click on '+' to add all chapters of the book. All pagenumbers schould update automaticly.
+- Click on the right upper button and Export Book to PDF: 
+![](imgs/book1.png)
 
 ### Step 5.5 Design cover 
+
+- Add title 
+- Add blurb on backcover
+- Add ISBN
+- Add spine (upload pdf on LULU. Lulu will tell you the exact size of the spine). 
+
+####MAKE SURE YOU UPLOAD ALL CHANGES TO THE REPOSITORY ON GITHUB.ORG BY CLICKING 'COMMIT TO MASTER' AND 'SYNC' IN THE GITHUB DESKTOP 
 
 #6. Publish the book 
 How to publish the theory on demand online
@@ -235,7 +273,7 @@ In this case we will need two PDFs:
 - Spreadsheet for the cover (with spine)
 
 Go to [http://www.lulu.com/](http://www.lulu.com/)
-		user: margreet@networkcultures.org		pass: INC05a20- Click on Creëren / Create and choose Print book Onthe next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and endby clicking **‘Dit boek maken’** in the orange arrow:
+		user: miriam@networkcultures.org		pass: INC05a20- Click on Creëren / Create and choose Print book Onthe next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and endby clicking **‘Dit boek maken’** in the orange arrow:
 - Fill in your Title and Author(s) and leave the first options (Lulu, Amazon, Barnes and Nobles) selected 
 - Add the ISBN to the publication, **don’t add the barcode**
 - Click on Choose File and select your inside PDF, then click on **Upload**
@@ -248,7 +286,7 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 
 ###Step 6.3 Upload in INC pageEmbed the book on [http://networkcultures.org/](http://networkcultures.org/). In this last part we will create the page for the publication on the INC blog.
 Login to [http://networkcultures.org/](http://networkcultures.org/)- Go over Publications and click on **Add New**; fill the form with title of the book
-- Go to the Issuu page relative to the publication and click copy the link
+- Go to the Issuu page relative to the publication and copy the URL
 - Paste the url at the top of the content box according to the series, check the correct category. It should look like this: 
 			
 		[embed]http://issuu.com/instituteofnetworkcultures/docs/issuethelistserveskwerbin?e=3130431/44189048[/embed]
@@ -257,7 +295,7 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 
 - Add a (small) cover image- Add colophon info to the Info box
 - Don’t add a link in the download area 
-- Click on Publish, you should finally see you publication in [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
+- Click on Publish, you should finally see you publication: [http://networkcultures.org/publications/](http://networkcultures.org/publications/)
 
 
 
