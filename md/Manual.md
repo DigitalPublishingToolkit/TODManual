@@ -181,7 +181,7 @@ A successful epub has been visually styled (with css and a cover), correctly cla
 The look of your book is controlled by the styles, you can get color values and typeface suggestions from the print designer. Make sure you embed the fonts you use by including them in the make file and in the lib folder.
 Here's more information about <a href="http://www.publishinglab.nl/blog/2015/07/01/epub-typography/">type in epubs</a>.
 
-If you want to change fonts and colors etc. within the epub you need to do this in the styles.epub.css
+If you want to change fonts and colors etc. within the epub you need to do this in the styles.epub.css.
 
 ### Step 4.5 Validating your ePub file
 
@@ -199,17 +199,17 @@ validator</a> for smaller ePubs (under 10MB). The validator will show you where 
 #5 Make PDF 
 
 ### Step 5.1 Create icmls
-- Use the command line to navigate to the Resources folder (that you renamed). You can navigate to that specific folder by typing:
+- Use the command line to navigate to the Resources folder (that you renamed). You can navigate to that specific folder by typing cd (with a space at the end) and then dragging and dropping the termin to the specifig folder. Then, press enter. 
 
-		cd (with a space at end) and dragging and dropping to the terminal the specific folder, and pressing enter.
+		cd (with a space at end) pathofyourfolder
 
 - Use the command line to convert your md files to icml files by typing:
 
-		make icmls, and press enter. 
+		make icmls 
 
-You can find the icmls in the icml folder.
+Press enter. You can then find the icmls in the icml folder.
 
-### Step 5.2 load icmls in Indesign 
+### Step 5.2 load icmls in InDesign 
 - Copy the TemplateTOD.indd files in the InDD folder and rename all files and make sure you do not use any special characters:
 		
 		01colophone
@@ -235,7 +235,7 @@ Now you are able to edit your text.
 		File > New > Book
 		And safe the book in the InDD folder
 		
-- Click on '+' to add all chapters of the book. All pagenumbers schould update automaticly.
+- Click on '+' to add all chapters of the book. All page numbers should update automatically.
 - Click on the right upper button and Export Book to PDF: 
 ![](imgs/book1.png)
 
