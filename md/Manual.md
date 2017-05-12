@@ -33,14 +33,14 @@ Introduction
 
 5\. Make PDF
 
-6\. Publisch TOD
+6\. Publish TOD
 
 
 #Introduction
 
 This manual shows you, step by step, how to create a theory on demand. 
 
-For more information about the workflow and creating output for print files, visit the PublishingLab [site](http://www.publishinglab.nl/resources/hybrid-publishing-workflow-faq)
+For more information about the workflow and creating output for print files, visit the PublishingLab [site](http://www.publishinglab.nl/resources/hybrid-publishing-workflow-faq).
 
 The Hybrid Publishing Toolkit method builds on chapter 6 of the Hybrid Publishing Toolkit book, it relies on a makefile and using the command line.
 
@@ -52,9 +52,9 @@ Before you begin you will need to install:
 
 - text processor (Microsoft Office or Openoffice);
 - <a href="https://desktop.github.com/">GitHub Desktop</a> (for working collaboratively);
-- markdown editor like <a href="http://macdown.uranusjr.com/">MacDown</a> or XCode (to edit your sourcefiles);
+- markdown editor like <a href="http://macdown.uranusjr.com/">MacDown</a> and XCode for Mac or <a href="http://markdownpad.com/">MarkdownPad</a> for Windows (to edit your sourcefiles);
 - plain-text editor (like <a href="http://www.sublimetext.com/">Sublime Text</a> or <a href="https://wiki.gnome.org/Apps/Gedit">Gedit</a>);
-- install <a href="http://www.adobe.com/nl/creativecloud.html">Adobe Indesign</a>; 
+- <a href="http://www.adobe.com/nl/creativecloud.html">Adobe InDesign</a>; 
 - <a href="http://calibre-ebook.com/download">Calibre</a> (to view/edit ebooks);
 - <a href="http://pandoc.org/installing.html">Pandoc</a> (you can install Pandoc with <a href="https://brew.sh/">Homebrew</a>);
 - git (for Mac git is included in Xcode, for Windows see <a href="https://git-scm.com/download/win">https://git-scm.com/download/win</a>;
@@ -71,8 +71,9 @@ Make sure you login your Github desktop:
 
 ###Step 2.1  Styling the manuscript inside Word: introducing structural meaning to the text
 
-- Prepare your text document accourding the INC style guide. 
-- Avoid any special characters in the titles and number them properly: 01colophone, 02introduction, 03chapter1 etc. 
+- Prepare your text document according to the INC style guide.
+- Assign the title, headlines, the bodytext, and the blockquotes accordingly so that the structure will appear later on in your markdown-file.
+- Divide your document according to its parts. Avoid any special characters in the titles and number them properly: 01colophon, 02introduction, 03chapter1 etc. 
 
 
 #3. Prepare repository 
@@ -83,8 +84,8 @@ Go to [https://github.com/](https://github.com/) and login
 	User: dptoolkit@gmail.com
 	Pass: amsterdam010
 	
-- Create a new repository TOD#;
-- Clone the repository to your Github desktop (click set up in desktop);
+- Create a new repository according to the title of your book (for instance TOD23kaos);
+- Clone the repository to your Github desktop (click "Clone or download", then "Open in Desktop");
 
 ![](imgs/git.png)
 
@@ -92,12 +93,12 @@ Go to [https://github.com/](https://github.com/) and login
 
 ### Step 3.2 Prepare folder // commit to master
 
-Copy folders from this repository (TOD manual) to your own theory on demand repository:
+Copy folders from this repository (TODManual) to your own theory on demand repository:
 
 - Make sure you copy all folders and make files.
 - Make sure your manuscript(s) are saved as .docx files and move them to the .docx folder, replacing the Test-chapter.docx file.
 - Avoid any special characters in the title and number them properly: 01colophone, 02introduction, 03chapter1 etc. 
-- Copy all you images in the imgs folder in the md folder 
+- Copy all your images in the imgs folder of your md folder. 
 
 ![](imgs/Folder3.png)
 ![](imgs/Folder4.png)
@@ -117,24 +118,24 @@ Copy folders from this repository (TOD manual) to your own theory on demand repo
 ###Step 4.1 Convert the .docx to a Markdown plain-text file by: 
 		
 - Use the command line to navigate to the Resources folder (that you renamed). You will need some knowledge of using the command line, you can find help with this <a
-href="http://en.flossmanuals.net/command-line/getting-started/">here</a>. You can navigate to that specific folder by typing:
+href="http://en.flossmanuals.net/command-line/getting-started/">here</a>. You can navigate to that specific folder by typing cd, and then dragging and dropping to the terminal the specific folder.
 
-		cd (with a space at end) and dragging and dropping to the terminal the specific folder, and pressing enter.
+		cd pathofyourfolder
 		
 	![](imgs/terminal1.png)
 
--   After navigating to the right folder, create the source file(s) for your ebook by typing:
+-   After navigating to the right folder, create the source file(s) for your ebook by typing in "make mark downs, then press enter:
 		
-		make markdowns, and press enter
+		make markdowns
 	![](imgs/terminal2.png)
 
-From now on the Markdown will be the working document. It will be here that the changes and corrections will occur. 
+You will finde the markdown files you created in the md-folder. From now on the Markdown will be the working document. It will be here that the changes and corrections will occur. 
 
 ### Step 4.2 Edit you .md file(s)
 
 Make sure you check the .md file(s) for any errors or glitches: 
 
-- fill out the meta data at the beginning of your .md file(s). Check with the editor if you have the right metadata information, including the epub isbn number.
+- fill out the meta data at the beginning of your .md file(s). Check with the editor if you have the right metadata information, including the ISBN number.
 Here's more information about <a href="http://www.publishinglab.nl/blog/2015/09/25/metadata-schmetadata-whats-it-good-for/">metadata</a>.
 - make sure every H1, H2, footnote etc. is converted correctly
 - footnotes appear at the end of you .md file(s) and look like this: 
@@ -148,15 +149,16 @@ Here's more information about <a href="http://www.publishinglab.nl/blog/2015/09/
 - make sure you name you cover image cover.jpg, and add it to the epub folder
 
 **Most used Syntaxes**
-![](imgs/syntax.jpg)
 
-For more examples see [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax)
+In the image you can see the most used syntaxes. For more examples see [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax). 
+
+![](imgs/syntax.jpg)
 
 ### Step 4.3 Convert to Epub
 
-Now that you have markdown file(s), you can create an epub: 
+Now that you have your markdown file(s), you can create an epub: 
 
-- open the terminal and type in command line:
+- open the terminal and type in command line the following and press enter:
 
 		make book.epub
 	![](imgs/terminal3.png)
@@ -168,11 +170,11 @@ Now that you have markdown file(s), you can create an epub:
 
 ### Step 4.4 Design your epub 
 
-A successful ePub has been visually styled (with css and a cover), correctly classified (with metadata), and validated. The epub folder typically has 3 important components:
+A successful epub has been visually styled (with css and a cover), correctly classified (with metadata), and validated. The epub folder typically has 3 important components:
 
 * the cover image (jpg)
-* stylesheet
-* metadata file
+* the stylesheet
+* the metadata file
 
 ![](imgs/epub.png)
 
@@ -211,7 +213,7 @@ You can find the icmls in the icml folder.
 - Copy the TemplateTOD.indd files in the InDD folder and rename all files and make sure you do not use any special characters:
 		
 		01colophone
-		02acknologments 
+		02acknowledgments 
 		03introduction 
 		04chapter1 
 
