@@ -217,7 +217,7 @@ Press enter. You can then find the icmls in the icml folder.
 		03introduction 
 		04chapter1 
 
-- Drop and drag your icml files in the Indesign document(s).
+- Drop and drag your icml files in the InDesign document(s).
 - Before you are able to edit/design the text in indesign make sure you check out: 
 		
 		Edit > Incopy > Check Out 
@@ -225,9 +225,11 @@ Press enter. You can then find the icmls in the icml folder.
 Now you are able to edit your text. 
 
 ### Step 5.3 Design your book
-- Use the paragraphs styles 
-- H1, H2, H3, titles use Lato font
-- Body text use Trade Gothic Light
+
+- Assign the different text components (headings, bodytext, footnotes) to the different paragraph styles that you can find in the template.
+
+- (H1, H2, H3, titles use Lato font
+- Body text use Trade Gothic Light)
 
 ### Step 5.4 Export your book
 - To export the entire book make use of the book function. Go to:
