@@ -235,10 +235,10 @@ Now you are able to edit your text.
 - To export the entire book make use of the book function. Go to:
 
 		File > New > Book
-		And safe the book in the InDD folder
+		Define a name and the location: the InDD folder.
 		
 - Click on '+' to add all chapters of the book. All page numbers should update automatically.
-- Click on the right upper button and Export Book to PDF: 
+- Click on the right upper button and Export Book to PDF in pages: 
 ![](imgs/book1.png)
 
 ### Step 5.5 Design cover 
@@ -266,14 +266,14 @@ Go to [http://issuu.com/login?](http://issuu.com/login?) and login as INC: <br /
  - replace the automatically added title;
  - add description (take this from the back cover text); 
  - add date; 
- - click Allow download and leave the visibility on Public.
+ - click Allow download and leave the visibility on Public;
  - and then Publish!Now you should be able to see your publication in [http://issuu.com/home/publications](http://issuu.com/home/publications)
 
 ###Step 6.2 LULU 
 
 In this case we will need two PDFs: 
 
-- For the inside, we need a single PDF with single pages, without cover. 
+- For the inside, we need a single PDF with single pages, without cover 
 - Spreadsheet for the cover (with spine)
 
 Go to [http://www.lulu.com/](http://www.lulu.com/)
