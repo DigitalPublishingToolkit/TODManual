@@ -71,9 +71,15 @@ Make sure you login your Github desktop:
 
 ###Step 2.1  Styling the manuscript inside Word: introducing structural meaning to the text
 
+*For this step, please refer to the test.docx document in in the folder docx of your Manual folder.*
+
 - Prepare your text document according to the INC style guide.
-- Assign the title, headlines, the bodytext, and the blockquotes accordingly so that the structure will appear later on in your markdown-file.
-- Divide your document according to its parts. Avoid any special characters in the titles and number them properly: 01colophon, 02introduction, 03chapter1 etc. 
+- Assign the title, headlines, the bodytext, and the blockquotes accordingly so that the structure will appear later on in your markdown-file. For this, refer to the template options offered by Word.
+
+*insert here screenshot for word template*
+
+- Divide your document according to its parts. Avoid any special characters in the titles and number them properly: 01colophon, 02introduction, 03chapter1 etc.
+- **IMPORTANT:** please make sure that you safe your Word file as .docx.
 
 
 #3. Prepare repository 
@@ -84,7 +90,7 @@ Go to [https://github.com/](https://github.com/) and login
 	User: dptoolkit@gmail.com
 	Pass: amsterdam010
 	
-- Create a new repository according to the title of your book (for instance TOD23kaos);
+- Create a new repository according to the title of your book. Please include number and title of the book, for instance TOD23kaos;
 - Clone the repository to your Github desktop (click "Clone or download", then "Open in Desktop");
 
 ![](imgs/git.png)
@@ -117,27 +123,27 @@ Copy folders from this repository (TODManual) to your own theory on demand repos
 
 ###Step 4.1 Convert the .docx to a Markdown plain-text file by: 
 		
-- Use the command line to navigate to the Resources folder (that you renamed). You will need some knowledge of using the command line, you can find help with this <a
+- Use the command line to navigate to your resources folder. You will need some knowledge of using the command line, you can find help with this <a
 href="http://en.flossmanuals.net/command-line/getting-started/">here</a>. You can navigate to that specific folder by typing cd, and then dragging and dropping to the terminal the specific folder.
 
 		cd pathofyourfolder
 		
 	![](imgs/terminal1.png)
 
--   After navigating to the right folder, create the source file(s) for your ebook by typing in "make mark downs, then press enter:
+-   After navigating to the right folder, create the source file(s) for your ebook by typing in "make markdowns", then press enter:
 		
 		make markdowns
 	![](imgs/terminal2.png)
 
-You will finde the markdown files you created in the md-folder. From now on the Markdown will be the working document. It will be here that the changes and corrections will occur. 
+You will find the markdown files you created in the md-folder. From now on the Markdown will be the working document, therefore all the changes you would like to make concerning to the content, you should do in the markdown file. 
 
 ### Step 4.2 Edit you .md file(s)
 
 Make sure you check the .md file(s) for any errors or glitches: 
 
-- fill out the meta data at the beginning of your .md file(s). Check with the editor if you have the right metadata information, including the ISBN number.
+- fill out the metadata at the beginning of your .md file(s). Check with the editor if you have the right metadata information, including the ISBN number.
 Here's more information about <a href="http://www.publishinglab.nl/blog/2015/09/25/metadata-schmetadata-whats-it-good-for/">metadata</a>.
-- make sure every H1, H2, footnote etc. is converted correctly
+- make sure every H1, H2, footnote, blockquote etc. is converted correctly
 - footnotes appear at the end of you .md file(s) and look like this: 
 
 ![](imgs/footnote.png)
@@ -150,7 +156,7 @@ Here's more information about <a href="http://www.publishinglab.nl/blog/2015/09/
 
 **Most used Syntaxes**
 
-In the image you can see the most used syntaxes. For more examples see [http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax). 
+In the image you can see the most used syntaxes. For more examples see <a href="http://daringfireball.net/projects/markdown/syntax](http://daringfireball.net/projects/markdown/syntax">here</a>. 
 
 ![](imgs/syntax.jpg)
 
@@ -158,7 +164,11 @@ In the image you can see the most used syntaxes. For more examples see [http://d
 
 Now that you have your markdown file(s), you can create an epub: 
 
-- open the terminal and type in command line the following and press enter:
+- open the terminal, navigate to your resources folder as you did in 4.1
+		
+		cd (with a space at end) pathofyourfolder
+
+- then, type in "make book.epub" in your command line and press enter:
 
 		make book.epub
 	![](imgs/terminal3.png)
@@ -173,12 +183,12 @@ Now that you have your markdown file(s), you can create an epub:
 A successful epub has been visually styled (with css and a cover), correctly classified (with metadata), and validated. The epub folder typically has 3 important components:
 
 * the cover image (jpg)
-* the stylesheet
 * the metadata file
+* the stylesheet
 
 ![](imgs/epub.png)
 
-The look of your book is controlled by the styles, you can get color values and typeface suggestions from the print designer. Make sure you embed the fonts you use by including them in the make file and in the lib folder.
+The look of your book is controlled by the styles that you can find in the stylesheet. You can get color values and typeface suggestions from the print designer. Make sure you embed the fonts you use by including them in the make file and in the lib folder.
 Here's more information about <a href="http://www.publishinglab.nl/blog/2015/07/01/epub-typography/">type in epubs</a>.
 
 If you want to change fonts and colors etc. within the epub you need to do this in the styles.epub.css.
@@ -199,7 +209,7 @@ validator</a> for smaller ePubs (under 10MB). The validator will show you where 
 #5 Make PDF 
 
 ### Step 5.1 Create icmls
-- Use the command line to navigate to the Resources folder (that you renamed). You can navigate to that specific folder by typing cd (with a space at the end) and then dragging and dropping the termin to the specifig folder. Then, press enter. 
+- open the terminal and navigate to your resources folder as you did in 4.1 
 
 		cd (with a space at end) pathofyourfolder
 
@@ -227,9 +237,8 @@ Now you are able to edit your text.
 ### Step 5.3 Design your book
 
 - Assign the different text components (headings, bodytext, footnotes) to the different paragraph styles that you can find in the template.
-
-- (H1, H2, H3, titles use Lato font
-- Body text use Trade Gothic Light)
+	- H1, H2, H3, titles use Lato font
+	- Body text use Trade Gothic Light
 
 ### Step 5.4 Export your book
 - To export the entire book make use of the book function. Go to:
@@ -256,7 +265,7 @@ How to publish the theory on demand online
 ###Step 6.1 Issuu 
 - On Issuu the publication should be set with the cover and single pages in one single PDF
 - After the cover follows a white page
-- In the case the cover is in a different file use Adobe Acrobat to merge the PDF: [http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html](http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html)
+- In the case the cover is in a different file use Adobe Acrobat to merge the PDF: [http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html](http://www.dummies.com/howto/content/insertinganddeletingpagesinpdfdocumentswith.html)
 
 Go to [http://issuu.com/login?](http://issuu.com/login?) and login as INC: <br />
 
@@ -282,7 +291,7 @@ Go to [http://www.lulu.com/](http://www.lulu.com/)
 - Add the ISBN to the publication, **don’t add the barcode**
 - Click on Choose File and select your inside PDF, then click on **Upload**
 - Click on **“Make PrintReady File”**
-- Click on **“advanced onepiece cover designer”**. You will be prompted with all the necessary specs to create the PDF cover. It will be a single sheet having the front cover on the right and the back cover on the left. You can design it using Adobe Illustrator.
+- Click on **“advanced onepiece cover designer”**. You will be prompted with all the necessary specs to create the PDF cover, including the measurements for the cover in total as well as the measurements of the spine. You can design it using Adobe InDesign by creating three pages: the back cover on the left, the spine as page two and the front cover as page three. All pages should be right next to each other. You can adjust the spine by changing the size of the page. Refer to older covers if you are unsure.
 - Choose your file and upload it, click **“Save and Continue”**
 - Fill the form with the requested info Click **“Save and Continue”**
 - Set the price as the minimum suggested by the platform and click on review project
