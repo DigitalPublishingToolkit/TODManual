@@ -1,4 +1,4 @@
----
+h---
 Pr-id: Institute of Network Cultures
 P-id: TOD Manual
 A-id: 10
@@ -74,7 +74,8 @@ Make sure you login your Github desktop:
 *For this step, please refer to the test.docx document in in the folder docx of your Manual folder.*
 
 - Prepare your text document according to the INC style guide.
-- Assign the title, headlines, the bodytext, and the blockquotes accordingly so that the structure will appear later on in your markdown-file. For this, refer to the template options offered by Word.
+- Assign the title, headlines, the bodytext, and the blockquotes accordingly so that the structure will appear later on in your markdown-file. For this, refer to the template options of
+- fered by Word.
 
 *insert here screenshot for word template*
 
