@@ -64,8 +64,8 @@ href="http://www.computerhope.com/issues/chusedos.htm">here</a>).
 
 Make sure you login your Github desktop:
 
-	User: dptoolkit@gmail.com
-	Pass: amsterdam010 
+	User: 
+	Pass: 
 	
 #2 Prepare manuscript 
 
@@ -88,8 +88,8 @@ Make sure you login your Github desktop:
 
 Go to [https://github.com/](https://github.com/) and login 
 
-	User: dptoolkit@gmail.com
-	Pass: amsterdam010
+	User: 
+	Pass: 
 	
 - Create a new repository according to the title of your book. Please include number and title of the book, for instance TOD23kaos;
 - Clone the repository to your Github desktop (click "Clone or download", then "Open in Desktop");
@@ -270,8 +270,8 @@ How to publish the theory on demand online
 
 Go to [http://issuu.com/login?](http://issuu.com/login?) and login as INC: <br />
 
-	user: info@networkcultures.org
-	pass: videovortexClick on upload: Upload your PDF and fill out the form:  <br />
+	user:
+	pass: Click on upload: Upload your PDF and fill out the form:  <br />
 
  - replace the automatically added title;
  - add description (take this from the back cover text); 
@@ -287,7 +287,7 @@ In this case we will need two PDFs:
 - Spreadsheet for the cover (with spine)
 
 Go to [http://www.lulu.com/](http://www.lulu.com/)
-		user: miriam@networkcultures.org		pass: INC05a20- Click on Creëren / Create and choose Print book Onthe next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and endby clicking **‘Dit boek maken’** in the orange arrow:
+		user:		pass: - Click on Creëren / Create and choose Print book Onthe next page choose **Premium pocketboek**, then scroll down and choose **Royal** as the format and endby clicking **‘Dit boek maken’** in the orange arrow:
 - Fill in your Title and Author(s) and leave the first options (Lulu, Amazon, Barnes and Nobles) selected 
 - Add the ISBN to the publication, **don’t add the barcode**
 - Click on Choose File and select your inside PDF, then click on **Upload**
