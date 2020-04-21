@@ -30,4 +30,4 @@ while i < len(lines):
 	i += 1
 
 text = ''.join(lines)
-print(text)
+print text

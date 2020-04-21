@@ -54,7 +54,7 @@ h1, h2, h3, h4, h5, h6 {
 h1{
     font-size:1.8em;
     text-transform:none;
-    page-break-before: always;
+    page-break-before: none;
 }
 
 h2{
@@ -125,22 +125,22 @@ img {
 blockquote{
     padding-left: 1.5em;
     margin-left: 0px;
-    border-left: 1px #e74011 solid;
+    border-left: 1px #8e8a7b solid;
     margin-top: 1.5em;
     margin-bottom: 1.5em;
 }
 
-a { color: #e74011;
+a { color: #8e8a7b;
     text-decoration: none;
   }
 
-a:hover { color: #e74011;
+a:hover { color: #8e8a7b;
       text-decoration: underline;
   }
 
 
 table {
-    border: 1px #e74011 solid;
+    border: 1px #8e8a7b solid;
     border-collapse: collapse;
     width:100%;
     vertical-align: top;
@@ -149,15 +149,15 @@ table {
 }
 
 table th {
-    border-bottom: 1px #e74011 solid;
+    border-bottom: 1px #8e8a7b solid;
     color: #FFF;
-    background: #e74011;
+    background: #8e8a7b;
     font-family: 'OpenSans-Semibold';
 }
 
 table th, td {
-    border-left: 1px #e74011 solid;
-    border-right: 1px #e74011 solid;
+    border-left: 1px #8e8a7b solid;
+    border-right: 1px #8e8a7b solid;
 }
 
 th, td {
