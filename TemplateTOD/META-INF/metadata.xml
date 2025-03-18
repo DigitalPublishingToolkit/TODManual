@@ -1,0 +1,951 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?xpacket begin="﻿" id="W5M0MpCehiHzreSzNTczkc9d"?>
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c143 79.161424, 2017/09/22-11:52:47        ">
+   <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+      <rdf:Description rdf:about=""
+            xmlns:dc="http://purl.org/dc/elements/1.1/"
+            xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+            xmlns:xmpTPg="http://ns.adobe.com/xap/1.0/t/pg/"
+            xmlns:xmpGImg="http://ns.adobe.com/xap/1.0/g/img/"
+            xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+            xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+            xmlns:stRef="http://ns.adobe.com/xap/1.0/sType/ResourceRef#"
+            xmlns:idPriv="http://ns.adobe.com/xmp/InDesign/private"
+            xmlns:xmpG="http://ns.adobe.com/xap/1.0/g/"
+            xmlns:stFnt="http://ns.adobe.com/xap/1.0/sType/Font#">
+         <dc:format>application/x-indesign</dc:format>
+         <xmp:CreateDate>2015-05-15T13:11:27+02:00</xmp:CreateDate>
+         <xmp:MetadataDate>2019-11-26T23:44:37+01:00</xmp:MetadataDate>
+         <xmp:ModifyDate>2019-11-26T23:44:37+01:00</xmp:ModifyDate>
+         <xmp:CreatorTool>Adobe InDesign CC 13.1 (Macintosh)</xmp:CreatorTool>
+         <xmp:PageInfo>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>1</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAMCAgICAgMCAgMEAsLCxAUDg0NDhQY&#xA;EhMTExIYFBIUFBQUEhQUGx4eHhsUJCcnJyckMjU1NTI7Ozs7Ozs7Ozs7AQ0LCxAOECIYGCIyKCEo&#xA;MjsyMjIyOzs7Ozs7Ozs7Ozs7Ozs7OztAQEBAQDtAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AKoDAREAAhEBAxEB/8QBQgAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGx&#xA;QiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV&#xA;xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgI7AQACEQMh&#xA;MRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0&#xA;ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH1+f3/9oADAMB&#xA;AAIRAxEAPwD1VJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJTndc6LR13EZiZFltTW&#xA;WC0Ope6t0gObE1uaY9ySnE/8brpn/cvN/wDYm/8A9LJKV/43XTP+5eb/AOxN/wD6WSUr/wAbrpn/&#xA;AHLzf/Ym/wD9LJKelqpvqrZU2xpDGhoJYSYAjU+okpltyf32f5h/9KJKVtyf32f5h/8ASiSlbcn9&#xA;9n+Yf/SiSlbcn99n+Yf/AEokpW3J/fZ/mH/0okpW3J/fZ/mH/wBKJKVtyf32f5h/9KJKVtyf32f5&#xA;h/8ASiSlbcn99n+Yf/SiSlbcn99n+Yf/AEokpW3J/fZ/mH/0okpW3J/fZ/mH/wBKJKWxscY7HNBn&#xA;e99hOvLyXH6TndykpMkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp&#xA;SSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJ&#xA;KUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp/9k=</xmpGImg:image>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpTPg:PageNumber>2</xmpTPg:PageNumber>
+                  <xmpGImg:format>JPEG</xmpGImg:format>
+                  <xmpGImg:width>256</xmpGImg:width>
+                  <xmpGImg:height>256</xmpGImg:height>
+                  <xmpGImg:image>/9j/4AAQSkZJRgABAgEASABIAAD/7QAsUGhvdG9zaG9wIDMuMAA4QklNA+0AAAAAABAASAAAAAEA&#xA;AQBIAAAAAQAB/+4AE0Fkb2JlAGQAAAAAAQUAAklE/9sAhAAMCAgICAgMCAgMEAsLCxAUDg0NDhQY&#xA;EhMTExIYFBIUFBQUEhQUGx4eHhsUJCcnJyckMjU1NTI7Ozs7Ozs7Ozs7AQ0LCxAOECIYGCIyKCEo&#xA;MjsyMjIyOzs7Ozs7Ozs7Ozs7Ozs7OztAQEBAQDtAQEBAQEBAQEBAQEBAQEBAQEBAQED/wAARCAEA&#xA;AKoDAREAAhEBAxEB/8QBQgAAAQUBAQEBAQEAAAAAAAAAAwABAgQFBgcICQoLAQABBQEBAQEBAQAA&#xA;AAAAAAABAAIDBAUGBwgJCgsQAAEEAQMCBAIFBwYIBQMMMwEAAhEDBCESMQVBUWETInGBMgYUkaGx&#xA;QiMkFVLBYjM0coLRQwclklPw4fFjczUWorKDJkSTVGRFwqN0NhfSVeJl8rOEw9N14/NGJ5SkhbSV&#xA;xNTk9KW1xdXl9VZmdoaWprbG1ub2N0dXZ3eHl6e3x9fn9xEAAgIBAgQEAwQFBgcHBgI7AQACEQMh&#xA;MRIEQVFhcSITBTKBkRShsUIjwVLR8DMkYuFygpJDUxVjczTxJQYWorKDByY1wtJEk1SjF2RFVTZ0&#xA;ZeLys4TD03Xj80aUpIW0lcTU5PSltcXV5fVWZnaGlqa2xtbm9ic3R1dnd4eXp7fH1+f3/9oADAMB&#xA;AAIRAxEAPwD1VJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSU&#xA;pJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUpJSklKSUwtrFtb6ncPaWmNNCI7Qk&#xA;pFTRdRTXRXY3ZU0Mbua5xhogSTZJSUz25P77P8w/+lElK25P77P8w/8ApRJStuT++z/MP/pRJStu&#xA;T++z/MP/AKUSUrbk/vs/zD/6USUrbk/vs/zD/wClElK25P77P8w/+lElK25P77P8w/8ApRJStuT+&#xA;+z/MP/pRJStuT++z/MP/AKUSUrbk/vs/zD/6USUrbk/vs/zD/wClElIczDszsS7DutDa72GtxrDm&#xA;OAcI9rhZIKSnnv8Axuumf9y83/2Jv/8ASySlf+N10z/uXm/+xN//AKWSU6HQ/qph9Cy35ePfkWuf&#xA;Wai262yxsEtdMWWOE+1JTuJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpS&#xA;SlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJK&#xA;UkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkpSSlJKUkp//9k=</xmpGImg:image>
+               </rdf:li>
+            </rdf:Seq>
+         </xmp:PageInfo>
+         <xmpMM:InstanceID>xmp.iid:a6c95d9b-a2ca-4005-b691-aa04f15cf6eb</xmpMM:InstanceID>
+         <xmpMM:DocumentID>xmp.did:00801174072068118083B2473B82B4AD</xmpMM:DocumentID>
+         <xmpMM:OriginalDocumentID>xmp.did:01801174072068118C1480DD654390C8</xmpMM:OriginalDocumentID>
+         <xmpMM:History>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>created</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:01801174072068118C1480DD654390C8</stEvt:instanceID>
+                  <stEvt:when>2015-05-15T13:11:27+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:02801174072068118C1480DD654390C8</stEvt:instanceID>
+                  <stEvt:when>2015-05-15T13:13:26+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:03801174072068118C1480DD654390C8</stEvt:instanceID>
+                  <stEvt:when>2015-05-15T13:13:26+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FF7F117407206811822AFC35010C2505</stEvt:instanceID>
+                  <stEvt:when>2015-05-18T16:34:42+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:0080117407206811822AFC35010C2505</stEvt:instanceID>
+                  <stEvt:when>2015-05-18T16:34:42+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:D9B134F70B206811822AFC35010C2505</stEvt:instanceID>
+                  <stEvt:when>2015-05-18T16:48:07+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FD7F1174072068118083B2473B82B4AD</stEvt:instanceID>
+                  <stEvt:when>2015-05-26T14:08:18+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:FE7F1174072068118083B2473B82B4AD</stEvt:instanceID>
+                  <stEvt:when>2015-05-26T14:08:52+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:00801174072068118083B2473B82B4AD</stEvt:instanceID>
+                  <stEvt:when>2015-05-26T14:08:52+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:01801174072068118083B3283F51A460</stEvt:instanceID>
+                  <stEvt:when>2015-05-27T16:41:20+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:02801174072068118083B3283F51A460</stEvt:instanceID>
+                  <stEvt:when>2015-05-27T16:41:20+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CS6 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e0008aba-eea2-4b84-b43e-6c0cd7523f40</stEvt:instanceID>
+                  <stEvt:when>2015-11-20T16:20:12-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:e78601de-4c00-4ec2-b3f4-b412b61e0cff</stEvt:instanceID>
+                  <stEvt:when>2015-11-20T16:20:12-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:90c38c06-34b0-4de6-b00c-b4af4a1deffc</stEvt:instanceID>
+                  <stEvt:when>2015-11-20T16:46:19-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:91d51905-6a26-4235-84d1-e49521c202de</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:23:14-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:ef14709e-b5ea-4109-a417-8695a6332aa3</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:23:14-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:73aef8e3-fda5-48ce-a63a-bafbd29302c5</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:23:26-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:3b10ff95-26ca-4da2-9730-9addf6773a86</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:50:15-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:c7426c2a-2b38-474d-9a40-318129912cf1</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:50:15-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:9d76ca00-5653-4661-bc63-3a7ce52feaa4</stEvt:instanceID>
+                  <stEvt:when>2015-12-08T09:51:23-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:5205cc00-6004-4f40-95bc-6a3253dfcbfd</stEvt:instanceID>
+                  <stEvt:when>2016-01-08T16:16:05-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:bf953ac3-c373-4e76-9e00-3173f3ec7de4</stEvt:instanceID>
+                  <stEvt:when>2016-01-08T16:16:05-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:901b8628-d495-4c45-a4b7-d1618e67720c</stEvt:instanceID>
+                  <stEvt:when>2016-01-08T16:34:41-08:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2015 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:70e533d3-e04d-234f-a579-1bc12fe62676</stEvt:instanceID>
+                  <stEvt:when>2017-06-12T14:32:49+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2017 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:b69a51a0-40df-f94b-8a95-81fe256134f4</stEvt:instanceID>
+                  <stEvt:when>2017-06-12T14:32:49+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 2017 (Windows)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:adf5779b-9917-41bb-8016-c5906b43dd18</stEvt:instanceID>
+                  <stEvt:when>2019-09-26T14:25:50+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:1c4218e4-289c-4029-86b3-4c550199a6b9</stEvt:instanceID>
+                  <stEvt:when>2019-09-26T14:25:50+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/metadata</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:d3d371d6-c7bd-4cfe-bfd3-5051d7349e0d</stEvt:instanceID>
+                  <stEvt:when>2019-09-26T14:26:05+02:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stEvt:action>saved</stEvt:action>
+                  <stEvt:instanceID>xmp.iid:a6c95d9b-a2ca-4005-b691-aa04f15cf6eb</stEvt:instanceID>
+                  <stEvt:when>2019-11-26T23:44:37+01:00</stEvt:when>
+                  <stEvt:softwareAgent>Adobe InDesign CC 13.1 (Macintosh)</stEvt:softwareAgent>
+                  <stEvt:changed>/</stEvt:changed>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpMM:History>
+         <xmpMM:RenditionClass>default</xmpMM:RenditionClass>
+         <xmpMM:DerivedFrom rdf:parseType="Resource">
+            <stRef:instanceID>xmp.iid:FE7F1174072068118083B2473B82B4AD</stRef:instanceID>
+            <stRef:documentID>xmp.did:01801174072068118C1480DD654390C8</stRef:documentID>
+            <stRef:originalDocumentID>xmp.did:01801174072068118C1480DD654390C8</stRef:originalDocumentID>
+            <stRef:renditionClass>default</stRef:renditionClass>
+         </xmpMM:DerivedFrom>
+         <idPriv:DocChangeCount>3855</idPriv:DocChangeCount>
+         <idPriv:keyStampMp>AAAAAA==</idPriv:keyStampMp>
+         <xmpTPg:Colorants>
+            <rdf:Seq>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>#989c96</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>42.739999294281006</xmpG:cyan>
+                  <xmpG:magenta>33.10000002384186</xmpG:magenta>
+                  <xmpG:yellow>37.71999776363373</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Nero</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Carta</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>0</xmpG:magenta>
+                  <xmpG:yellow>0</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>R=147 G=44 B=101</xmpG:swatchName>
+                  <xmpG:mode>RGB</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:red>147.26249635219574</xmpG:red>
+                  <xmpG:green>43.93649898469448</xmpG:green>
+                  <xmpG:blue>101.36249452829361</xmpG:blue>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>R=147 G=44 B=101 2</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>0</xmpG:cyan>
+                  <xmpG:magenta>74</xmpG:magenta>
+                  <xmpG:yellow>49</xmpG:yellow>
+                  <xmpG:black>0</xmpG:black>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <xmpG:swatchName>Registro</xmpG:swatchName>
+                  <xmpG:mode>CMYK</xmpG:mode>
+                  <xmpG:type>Process</xmpG:type>
+                  <xmpG:cyan>100</xmpG:cyan>
+                  <xmpG:magenta>100</xmpG:magenta>
+                  <xmpG:yellow>100</xmpG:yellow>
+                  <xmpG:black>100</xmpG:black>
+               </rdf:li>
+            </rdf:Seq>
+         </xmpTPg:Colorants>
+         <xmpTPg:Fonts>
+            <rdf:Bag>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-BoldCn</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Cond</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-BoldCnVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-BoldCnIt</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Cond Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-BoldCnItVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-RegularVersion 2.112;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.5900</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MinionPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-It</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-ItVersion 2.030;PS 2.000;hotconv 1.0.51;makeotf.lib2.0.18671</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MinionPro-Italic.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-MediumVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-MediumIt</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-MediumItVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-Semibold</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Semibold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-SemiboldVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-SemiboldIt</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Semibold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-SemiboldItVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-BoldVersion 2.068;PS 2.000;hotconv 1.0.57;makeotf.lib2.0.21895</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MinionPro-Bold.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>MinionPro-BoldIt</stFnt:fontName>
+                  <stFnt:fontFamily>Minion Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>MinionPro-BoldItVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Hairline</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Hairline</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>Lato-HairlineVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Hairline.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-HairlineItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Hairline Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>Lato-HairlineItalicVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-HairlineItalic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Light</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Light</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>Lato-LightVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Light.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-LightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Light Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>Lato-LightItalicVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-LightItalic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-RegularVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Regular.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Italic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-ItalicVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Italic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-BoldVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Bold.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-BoldItalicVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-BoldItalic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Black</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Black</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-BlackVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Black.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-BlackItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Black Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeTT</stFnt:fontType>
+                  <stFnt:versionString>Lato-BlackItalicVersion 1.104; Western+Polish opensource</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-BlackItalic.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-MediumVersion 2.015; 2015-08-06; http://www.latofonts.com/</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Lato-Medium.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Thin</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Thin</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-ThinVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Semibold</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Semibold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-SemiboldVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-MediumItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-MediumItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-ThinItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Thin Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-ThinItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-SemiboldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Semibold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-SemiboldItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-Heavy</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-HeavyVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>Lato-HeavyItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Lato</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>Lato-HeavyItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Light</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Light</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-LightVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-LightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Light Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-LightItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Regular</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-RegularVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Italic</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-ItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-MediumVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-MediumItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-MediumItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-BoldVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-BoldItalicVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-ExtraBold</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Extra Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-ExtraBoldVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>StandardGroteskBSK-Super</stFnt:fontName>
+                  <stFnt:fontFamily>Standard-Grotesk BSK</stFnt:fontFamily>
+                  <stFnt:fontFace>Super</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>StandardGroteskBSK-SuperVersion 2.106;PS 2.000;hotconv 1.0.70;makeotf.lib2.5.58329</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>MyriadPro-Regular.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-CondensedBold</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Condensed Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-CondensedBold13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-CondensedBlack</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Condensed Black</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-CondensedBlack13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-UltraLight</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>UltraLight</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-UltraLight13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-UltraLightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>UltraLight Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-UltraLightItalic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-Thin</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Thin</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-Thin13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-ThinItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Thin Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-ThinItalic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-Light</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Light</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-Light13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-LightItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Light Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-LightItalic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-Italic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-Italic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-Medium</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-Medium13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-MediumItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Medium Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-MediumItalic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-Bold13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>HelveticaNeue-BoldItalic</stFnt:fontName>
+                  <stFnt:fontFamily>Helvetica Neue</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>HelveticaNeue-BoldItalic13.0d2e2</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>HelveticaNeue.ttc</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicLT-Bold</stFnt:fontName>
+                  <stFnt:fontFamily>TradeGothic LT Bold</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>TrueType</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicLT-BoldVersion 6.1; 2002</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>Trade Gothic LT Bold 2.ttf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Cm</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Compressed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-CmVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Cm.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-BdCm</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Compressed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-BdCmVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-BdCm.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-HvCm</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy Compressed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-HvCmVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-HvCm.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Cn</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Condensed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-CnVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Cn.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-CnIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Condensed Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-CnItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-CnIt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-BdCn</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Condensed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-BdCnVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-BdCn.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-BdCnIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Condensed Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-BdCnItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-BdCnIt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-HvCn</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy Condensed</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-HvCnVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-HvCn.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-HvCnIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy Condensed Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-HvCnItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-HvCnIt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Lt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Light</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-LtVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Lt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-LtIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Light Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-LtItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-LtIt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Rg</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Regular</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-RgVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Rg.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-It</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-ItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-It.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Bd</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-BdVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Bd.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-BdIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Bold Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-BdItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-BdIt.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-Hv</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-HvVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-Hv.otf</stFnt:fontFileName>
+               </rdf:li>
+               <rdf:li rdf:parseType="Resource">
+                  <stFnt:fontName>TradeGothicNextLTPro-HvIt</stFnt:fontName>
+                  <stFnt:fontFamily>Trade Gothic Next LT Pro</stFnt:fontFamily>
+                  <stFnt:fontFace>Heavy Italic</stFnt:fontFace>
+                  <stFnt:fontType>OpenTypeCFF</stFnt:fontType>
+                  <stFnt:versionString>TradeGothicNextLTPro-HvItVersion 2.00</stFnt:versionString>
+                  <stFnt:composite>false</stFnt:composite>
+                  <stFnt:fontFileName>TradeGothicNextLTPro-HvIt.otf</stFnt:fontFileName>
+               </rdf:li>
+            </rdf:Bag>
+         </xmpTPg:Fonts>
+      </rdf:Description>
+   </rdf:RDF>
+</x:xmpmeta>
+<?xpacket end="r"?>

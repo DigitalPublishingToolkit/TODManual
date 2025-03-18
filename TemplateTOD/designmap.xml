@@ -1,0 +1,528 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<?aid style="50" type="document" readerVersion="6.0" featureSet="257" product="13.1(76)" ?>
+<Document xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1" Self="d" StoryList="uc73 uc8a uca1 ucb8 u1372 u1389 u13a0 u13b7 u13cf u3d14 u3d2d u3d6d ua8" Name="TemplateTOD.indd" ZeroPoint="0 0" ActiveLayer="ubf" CMYKProfile="$ID/" RGBProfile="$ID/" SolidColorIntent="UseColorSettings" AfterBlendingIntent="UseColorSettings" DefaultImageIntent="UseColorSettings" RGBPolicy="ColorPolicyOff" CMYKPolicy="ColorPolicyOff" AccurateLABSpots="false">
+	<Properties>
+		<Label>
+			<KeyValuePair Key="kAdobeDPS_Version" Value="2" />
+		</Label>
+	</Properties>
+	<Language Self="Language/$ID/English%3a UK" Name="$ID/English: UK" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/UK" Id="525" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<Language Self="Language/$ID/English%3a USA" Name="$ID/English: USA" SingleQuotes="‘’" DoubleQuotes="“”" PrimaryLanguageName="$ID/English" SublanguageName="$ID/USA" Id="269" HyphenationVendor="Hunspell" SpellingVendor="Hunspell" />
+	<idPkg:Graphic src="Resources/Graphic.xml" />
+	<idPkg:Fonts src="Resources/Fonts.xml" />
+	<idPkg:Styles src="Resources/Styles.xml" />
+	<NumberingList Self="NumberingList/$ID/[Default]" Name="$ID/[Default]" ContinueNumbersAcrossStories="false" ContinueNumbersAcrossDocuments="false" />
+	<NamedGrid Self="NamedGrid/$ID/[Page Grid]" Name="$ID/[Page Grid]">
+		<GridDataInformation FontStyle="Regular" PointSize="12" CharacterAki="0" LineAki="9" HorizontalScale="100" VerticalScale="100" LineAlignment="LeftOrTopLineJustify" GridAlignment="AlignEmCenter" CharacterAlignment="AlignEmCenter">
+			<Properties>
+				<AppliedFont type="string">Minion Pro</AppliedFont>
+			</Properties>
+		</GridDataInformation>
+	</NamedGrid>
+	<ConditionalTextPreference ShowConditionIndicators="ShowIndicators" ActiveConditionSet="n" />
+	<idPkg:Preferences src="Resources/Preferences.xml" />
+	<EndnoteOption EndnoteTitle="Note di chiusura" EndnoteTitleStyle="ParagraphStyle/$ID/NormalParagraphStyle" StartEndnoteNumberAt="1" EndnoteMarkerStyle="CharacterStyle/$ID/[No character style]" EndnoteTextStyle="ParagraphStyle/$ID/NormalParagraphStyle" EndnoteSeparatorText="&#x9;" EndnotePrefix="" EndnoteSuffix="">
+		<Properties>
+			<EndnoteNumberingStyle type="enumeration">Arabic</EndnoteNumberingStyle>
+			<RestartEndnoteNumbering type="enumeration">Continuous</RestartEndnoteNumbering>
+			<EndnoteMarkerPositioning type="enumeration">SuperscriptMarker</EndnoteMarkerPositioning>
+			<ScopeValue type="enumeration">EndnoteDocumentScope</ScopeValue>
+			<FrameCreateOption type="enumeration">NewPage</FrameCreateOption>
+			<ShowEndnotePrefixSuffix type="enumeration">NoPrefixSuffix</ShowEndnotePrefixSuffix>
+		</Properties>
+	</EndnoteOption>
+	<TextFrameFootnoteOptionsObject EnableOverrides="false" SpanFootnotesAcross="false" MinimumSpacingOption="12" SpaceBetweenFootnotes="6" />
+	<LinkedStoryOption UpdateWhileSaving="false" WarnOnUpdateOfEditedStory="true" RemoveForcedLineBreaks="false" ApplyStyleMappings="false" />
+	<LinkedPageItemOption UpdateLinkWhileSaving="false" WarnOnUpdateOfEditedPageItem="true" PreserveSizeAndShape="false" PreserveAppearance="false" PreserveInteractivity="false" PreserveFrameContent="false" PreserveOthers="false" />
+	<WatermarkPreference WatermarkVisibility="false" WatermarkDoPrint="false" WatermarkDrawInBack="true" WatermarkText="" WatermarkFontFamily="Minion Pro" WatermarkFontStyle="Regular" WatermarkFontPointSize="48" WatermarkOpacity="50" WatermarkRotation="0" WatermarkHorizontalPosition="WatermarkHCenter" WatermarkHorizontalOffset="0" WatermarkVerticalPosition="WatermarkVCenter" WatermarkVerticalOffset="0">
+		<Properties>
+			<WatermarkFontColor type="enumeration">Black</WatermarkFontColor>
+		</Properties>
+	</WatermarkPreference>
+	<TaggedPDFPreference StructureOrder="UseXMLStructure" />
+	<HTMLFXLExportPreference EpubPageRange="" EpubPageRangeFormat="ExportAllPages" />
+	<PublishExportPreference PublishCover="FirstPage" CoverImageFile="" PublishPageRange="" PublishPageRangeFormat="ExportAllPages" ImageConversion="Automatic" ImageExportResolution="Ppi96" PublishDescription="" PublishFileName="" PublishFormat="PublishByPages" CoverPage="$ID/" GIFOptionsPalette="AdaptivePalette" JPEGOptionsQuality="High" PublishPdf="false" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefChapterNumber" Name="&lt;?AID 001b?&gt;TV XRefChapterNumber" VariableType="XrefChapterNumberType" />
+	<TextVariable Self="dTextVariablen&lt;?AID 001b?&gt;TV XRefPageNumber" Name="&lt;?AID 001b?&gt;TV XRefPageNumber" VariableType="XrefPageNumberType" />
+	<TextVariable Self="dTextVariablenChapter Number" Name="Chapter Number" VariableType="ChapterNumberType">
+		<ChapterNumberVariablePreference TextBefore="" Format="Current" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenCreation Date" Name="Creation Date" VariableType="CreationDateType">
+		<DateVariablePreference TextBefore="" Format="dd/MM/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenFile Name" Name="File Name" VariableType="FileNameType">
+		<FileNameVariablePreference TextBefore="" IncludePath="false" IncludeExtension="false" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenImage Name" Name="Image Name" VariableType="LiveCaptionType">
+		<CaptionMetadataVariablePreference TextBefore="" MetadataProviderName="$ID/#LinkInfoNameStr" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenLast Page Number" Name="Last Page Number" VariableType="LastPageNumberType">
+		<PageNumberVariablePreference TextBefore="" Format="Current" TextAfter="" Scope="SectionScope" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenModification Date" Name="Modification Date" VariableType="ModificationDateType">
+		<DateVariablePreference TextBefore="" Format="d MMMM yyyy h:mm aa" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenOutput Date" Name="Output Date" VariableType="OutputDateType">
+		<DateVariablePreference TextBefore="" Format="dd/MM/yy" TextAfter="" />
+	</TextVariable>
+	<TextVariable Self="dTextVariablenRunning Header" Name="Running Header" VariableType="MatchParagraphStyleType">
+		<MatchParagraphStylePreference TextBefore="" TextAfter="" AppliedParagraphStyle="ParagraphStyle/$ID/NormalParagraphStyle" SearchStrategy="FirstOnPage" ChangeCase="None" DeleteEndPunctuation="false" />
+	</TextVariable>
+	<idPkg:Tags src="XML/Tags.xml" />
+	<Layer Self="ubf" Name="Layer 1" Visible="true" Locked="false" IgnoreWrap="false" ShowGuides="true" LockGuides="false" UI="true" Expendable="true" Printable="true">
+		<Properties>
+			<LayerColor type="enumeration">LightBlue</LayerColor>
+		</Properties>
+	</Layer>
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_uc9.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u1366.xml" />
+	<idPkg:MasterSpread src="MasterSpreads/MasterSpread_u13e9.xml" />
+	<idPkg:Spread src="Spreads/Spread_u3bfa.xml" />
+	<idPkg:Spread src="Spreads/Spread_u3bf4.xml" />
+	<Section Self="uc8" Length="3" Name="" ContinueNumbering="true" IncludeSectionPrefix="false" Marker="" PageStart="u1282" SectionPrefix="" AlternateLayoutLength="3" AlternateLayout="Custom V 2">
+		<Properties>
+			<PageNumberStyle type="enumeration">Arabic</PageNumberStyle>
+		</Properties>
+	</Section>
+	<DocumentUser Self="dDocumentUser0" UserName="jess">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser1" UserName="jessvan">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser2" UserName="leonieke">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser3" UserName="Leonieke">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser4" UserName="inga">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser5" UserName="$ID/Unknown User Name">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<DocumentUser Self="dDocumentUser6" UserName="Valeria">
+		<Properties>
+			<UserColor type="enumeration">Gold</UserColor>
+		</Properties>
+	</DocumentUser>
+	<CrossReferenceFormat Self="u96" Name="Full Paragraph &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u96BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u96BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u97" Name="Full Paragraph" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u97BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock1" BlockType="FullParagraphBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u97BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u98" Name="Paragraph Text &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u98BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u98BuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u99" Name="Paragraph Text" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u99BuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock1" BlockType="ParagraphTextBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u99BuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9a" Name="Paragraph Number &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9aBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock1" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText=" on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9aBuildingBlock2" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9b" Name="Paragraph Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9bBuildingBlock0" BlockType="ParagraphNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9c" Name="Text Anchor Name &amp; Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9cBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot; on page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9cBuildingBlock3" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9d" Name="Text Anchor Name" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9dBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock1" BlockType="BookmarkNameBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9dBuildingBlock2" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="&quot;" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<CrossReferenceFormat Self="u9e" Name="Page Number" AppliedCharacterStyle="n">
+		<BuildingBlock Self="u9eBuildingBlock0" BlockType="CustomStringBuildingBlock" AppliedCharacterStyle="n" CustomText="page " AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+		<BuildingBlock Self="u9eBuildingBlock1" BlockType="PageNumberBuildingBlock" AppliedCharacterStyle="n" CustomText="$ID/" AppliedDelimiter="$ID/" IncludeDelimiter="false" />
+	</CrossReferenceFormat>
+	<idPkg:BackingStory src="XML/BackingStory.xml" />
+	<idPkg:Story src="Stories/Story_u3d6d.xml" />
+	<idPkg:Story src="Stories/Story_u3d2d.xml" />
+	<idPkg:Story src="Stories/Story_u3d14.xml" />
+	<idPkg:Story src="Stories/Story_u13b7.xml" />
+	<idPkg:Story src="Stories/Story_u13a0.xml" />
+	<idPkg:Story src="Stories/Story_u1389.xml" />
+	<idPkg:Story src="Stories/Story_u1372.xml" />
+	<idPkg:Story src="Stories/Story_ucb8.xml" />
+	<idPkg:Story src="Stories/Story_uca1.xml" />
+	<idPkg:Story src="Stories/Story_uc8a.xml" />
+	<idPkg:Story src="Stories/Story_uc73.xml" />
+	<idPkg:Story src="Stories/Story_u13cf.xml" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/link" Name="link" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="1" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 2" Name="URL 2" DestinationURL="http://www.tapuz.co.il" Hidden="false" DestinationUniqueKey="2" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 3" Name="URL 3" DestinationURL="http://www.tapuz.co.il" Hidden="false" DestinationUniqueKey="3" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 1" Name="URL 1" DestinationURL="styles.xml" Hidden="false" DestinationUniqueKey="4" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 4" Name="URL 4" DestinationURL="styles.xml" Hidden="false" DestinationUniqueKey="5" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 5" Name="URL 5" DestinationURL="styles.xml" Hidden="false" DestinationUniqueKey="6" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 6" Name="URL 6" DestinationURL="styles.xml" Hidden="false" DestinationUniqueKey="7" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 9" Name="URL 9" DestinationURL="http://ec.europa.eu/priorities/digital-single-market/access/index_en.htm" Hidden="false" DestinationUniqueKey="111" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 10" Name="URL 10" DestinationURL="http://ec.europa.eu/priorities/digital-single-market/access/index_en.html" Hidden="false" DestinationUniqueKey="112" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 11" Name="URL 11" DestinationURL="http://www.pcworld.com/article/2928340/ultra-popular-hola-vpn-extension-sold-your-bandwidth-for-use-in-a-botnet-attack.html" Hidden="false" DestinationUniqueKey="113" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 12" Name="URL 12" DestinationURL="http://www.bbc.com/news/business-32702501" Hidden="false" DestinationUniqueKey="114" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 13" Name="URL 13" DestinationURL="http://flowtv.org/2014/02/adverstreaming-hulu-plus/" Hidden="false" DestinationUniqueKey="115" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 14" Name="URL 14" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Hidden="false" DestinationUniqueKey="116" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 15" Name="URL 15" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Hidden="false" DestinationUniqueKey="117" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 16" Name="URL 16" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Hidden="false" DestinationUniqueKey="118" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 17" Name="URL 17" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Hidden="false" DestinationUniqueKey="119" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 18" Name="URL 18" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Hidden="false" DestinationUniqueKey="120" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 19" Name="URL 19" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Hidden="false" DestinationUniqueKey="121" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 20" Name="URL 20" DestinationURL="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Hidden="false" DestinationUniqueKey="122" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 21" Name="URL 21" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Hidden="false" DestinationUniqueKey="123" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 22" Name="URL 22" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Hidden="false" DestinationUniqueKey="124" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 23" Name="URL 23" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Hidden="false" DestinationUniqueKey="125" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 24" Name="URL 24" DestinationURL="http://www.dhs.gov/sites/default/files/publications/Tunnel%20Detection-Going%20Underground%20to%20Enhance%20Security.pdf" Hidden="false" DestinationUniqueKey="126" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 25" Name="URL 25" DestinationURL="https://www.ice.gov/news/releases/us-mexican-authorities-shut-down-smuggling-tunnel-under-construction-nogales" Hidden="false" DestinationUniqueKey="127" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 26" Name="URL 26" DestinationURL="http://www.utsandiego.com/news/2014/apr/04/cross-border-drug-tunnels-investigation/" Hidden="false" DestinationUniqueKey="128" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 27" Name="URL 27" DestinationURL="http://www.ice.gov/news/releases/nogales-tunnel-task-force-shuts-down-drug-tunnel-backyard-shed" Hidden="false" DestinationUniqueKey="129" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 28" Name="URL 28" DestinationURL="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940" Hidden="false" DestinationUniqueKey="130" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 29" Name="URL 29" DestinationURL="http://www.gartner.com/technology/research/methodologies/magicQuadrants.jsp" Hidden="false" DestinationUniqueKey="131" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 30" Name="URL 30" DestinationURL="http://www.hulu.com/help/articles/171122" Hidden="false" DestinationUniqueKey="132" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 31" Name="URL 31" DestinationURL="http://www.digital-element.net/our_technology/our_technology.html" Hidden="false" DestinationUniqueKey="133" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 32" Name="URL 32" DestinationURL="https://homes.eff.org/~barlow/Declaration-Final.html" Hidden="false" DestinationUniqueKey="134" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 33" Name="URL 33" DestinationURL="https://jhalderm.com/pub/papers/iran-foci13.pdf" Hidden="false" DestinationUniqueKey="135" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 34" Name="URL 34" DestinationURL="http://www.ibtimes.com/hulu-streaming-how-evade-ban-vpns-continue-watching-online-tv-1620940" Hidden="false" DestinationUniqueKey="136" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 35" Name="URL 35" DestinationURL="http://www.hulu.com/help/articles/171122" Hidden="false" DestinationUniqueKey="137" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 36" Name="URL 36" DestinationURL="https://jhalderm.com/pub/papers/iran-foci13.pdf" Hidden="false" DestinationUniqueKey="138" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 37" Name="URL 37" DestinationURL="https://www.gartner.com/doc/3064318/magic-quadrant-secure-web-gateways" Hidden="false" DestinationUniqueKey="139" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 38" Name="URL 38" DestinationURL="https://projects.eff.org/~barlow/Declaration-Final.html" Hidden="false" DestinationUniqueKey="140" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 39" Name="URL 39" DestinationURL="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Hidden="false" DestinationUniqueKey="141" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 40" Name="URL 40" DestinationURL="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Hidden="false" DestinationUniqueKey="142" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 41" Name="URL 41" DestinationURL="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Hidden="false" DestinationUniqueKey="143" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 42" Name="URL 42" DestinationURL="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Hidden="false" DestinationUniqueKey="144" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 43" Name="URL 43" DestinationURL="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html" Hidden="false" DestinationUniqueKey="145" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 44" Name="URL 44" DestinationURL="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Hidden="false" DestinationUniqueKey="146" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 45" Name="URL 45" DestinationURL="http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1" Hidden="false" DestinationUniqueKey="147" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 46" Name="URL 46" DestinationURL="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Hidden="false" DestinationUniqueKey="148" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 47" Name="URL 47" DestinationURL="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Hidden="false" DestinationUniqueKey="149" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 48" Name="URL 48" DestinationURL="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Hidden="false" DestinationUniqueKey="150" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 49" Name="URL 49" DestinationURL="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Hidden="false" DestinationUniqueKey="151" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 50" Name="URL 50" DestinationURL="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Hidden="false" DestinationUniqueKey="152" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 51" Name="URL 51" DestinationURL="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Hidden="false" DestinationUniqueKey="153" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 52" Name="URL 52" DestinationURL="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Hidden="false" DestinationUniqueKey="154" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 53" Name="URL 53" DestinationURL="http://blog.ericgoldman.org/archives/2015/09/local-hosting-and-the-draft-trade-in-services-agreement-guest-blog-post.html" Hidden="false" DestinationUniqueKey="155" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 54" Name="URL 54" DestinationURL="http://www.pcworld.com/article/2939972/geoblocking-question-unresolved-after-new-zealand-lawsuit-ends.html" Hidden="false" DestinationUniqueKey="156" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 55" Name="URL 55" DestinationURL="http://www.sat1.de/service/nutzungsbedingungen/nutzungsbedingungen-fuer-die-nutzung-des-videoportals-von-sat-1" Hidden="false" DestinationUniqueKey="157" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 56" Name="URL 56" DestinationURL="http://www.businessinsider.com/hola-tv-watch-olympics-vpn-blocker-netflix-world-2014-1" Hidden="false" DestinationUniqueKey="158" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 57" Name="URL 57" DestinationURL="http://www.reuters.com/article/2012/07/31/us-olympics-tech-workaround-idUSBRE86U02R20120731" Hidden="false" DestinationUniqueKey="159" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 58" Name="URL 58" DestinationURL="http://www.michaelgeist.ca/2015/04/nobodys-perfect-leaked-contract-reveals-sony-requires-netflix-to-geo-block-but-acknowledges-technology-is-imperfect/" Hidden="false" DestinationUniqueKey="160" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 59" Name="URL 59" DestinationURL="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials" Hidden="false" DestinationUniqueKey="161" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 60" Name="URL 60" DestinationURL="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342" Hidden="false" DestinationUniqueKey="162" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 61" Name="URL 61" DestinationURL="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live" Hidden="false" DestinationUniqueKey="163" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 62" Name="URL 62" DestinationURL="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg" Hidden="false" DestinationUniqueKey="164" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 63" Name="URL 63" DestinationURL="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734" Hidden="false" DestinationUniqueKey="165" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 64" Name="URL 64" DestinationURL="http://ssrn.com/abstract=259509" Hidden="false" DestinationUniqueKey="166" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 65" Name="URL 65" DestinationURL="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html" Hidden="false" DestinationUniqueKey="167" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 66" Name="URL 66" DestinationURL="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html" Hidden="false" DestinationUniqueKey="168" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 67" Name="URL 67" DestinationURL="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html" Hidden="false" DestinationUniqueKey="169" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 68" Name="URL 68" DestinationURL="http://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Hidden="false" DestinationUniqueKey="170" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 69" Name="URL 69" DestinationURL="http://ssrn.com/abstract=2595096" Hidden="false" DestinationUniqueKey="171" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 70" Name="URL 70" DestinationURL="http://www.cnet.com/news/apple-patent-may-foreshadow-iphones-that-react-to-location" Hidden="false" DestinationUniqueKey="172" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 71" Name="URL 71" DestinationURL="ttp://www.forbes.com/sites/kathleenchaykowski/2015/05/28/twitter-automates-amplify-as-it-pushes-the-live-video-ad-product-into-news-entertainment/" Hidden="false" DestinationUniqueKey="173" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 72" Name="URL 72" DestinationURL="http://www.ericsson.com/res/docs/2015/ericsson-mobility-report-june-2015.pdf" Hidden="false" DestinationUniqueKey="174" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 73" Name="URL 73" DestinationURL="http://www.theverge.com/2015/3/26/8296537/explosion-east-village-periscope-live" Hidden="false" DestinationUniqueKey="175" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 74" Name="URL 74" DestinationURL="http://www.hollywoodreporter.com/news/cannes-2015-are-periscope-meerkat-795342" Hidden="false" DestinationUniqueKey="176" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 75" Name="URL 75" DestinationURL="http://www.golf.com/tour-and-news/pga-tour-revokes-stephanie-weis-credentials" Hidden="false" DestinationUniqueKey="177" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 76" Name="URL 76" DestinationURL="http://www.cnbc.com/2015/05/21/fan-streaming-apps-have-sports-world-debating-tv-rights.html" Hidden="false" DestinationUniqueKey="178" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 77" Name="URL 77" DestinationURL="http://www.hollywoodreporter.com/news/hbo-criticizes-periscope-game-thrones-788734" Hidden="false" DestinationUniqueKey="179" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 78" Name="URL 78" DestinationURL="http://www.todayszaman.com/national_ekol-hoca-center-of-attention-on-periscope-with-his-online-prep-school_396440.html" Hidden="false" DestinationUniqueKey="180" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 79" Name="URL 79" DestinationURL="http://i100.independent.co.uk/article/this-turkish-maths-teacher-is-defying-a-government-ban-by-using-periscope-to-teach-1000s-of-students--Z1CzJZFJBg" Hidden="false" DestinationUniqueKey="181" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 80" Name="URL 80" DestinationURL="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995" Hidden="false" DestinationUniqueKey="182" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 81" Name="URL 81" DestinationURL="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html" Hidden="false" DestinationUniqueKey="183" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 82" Name="URL 82" DestinationURL="http://insidestory.org.au/bringing-the-abc-back-home/" Hidden="false" DestinationUniqueKey="184" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 83" Name="URL 83" DestinationURL="http://m.fifa.com/aboutfifa/news/newsid=2401405.html" Hidden="false" DestinationUniqueKey="185" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 84" Name="URL 84" DestinationURL="http://insidestory.org.au/bringing-the-abc-back-home/" Hidden="false" DestinationUniqueKey="186" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 85" Name="URL 85" DestinationURL="http://www.bailii.org/ew/cases/EWHC/Admin/2012/466.html" Hidden="false" DestinationUniqueKey="187" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 86" Name="URL 86" DestinationURL="http://www.anzca.net/documents/anzca-11-1/refereed-proceedings-3/495-hutchins-anzca-2011-1/file.html" Hidden="false" DestinationUniqueKey="188" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 87" Name="URL 87" DestinationURL="http://m.fifa.com/aboutfifa/news/newsid=2401405.html" Hidden="false" DestinationUniqueKey="189" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 88" Name="URL 88" DestinationURL="http://www.olympic.org/news/ioc-awards-olympic-games-broadcast-rights-to-nbcuniversal-through-to-2032/230995" Hidden="false" DestinationUniqueKey="190" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 89" Name="URL 89" DestinationURL="http://www.nytimes.com/2011/10/22/sports/soccer/fox-and-telemundo-win-us-rights-to-2018-and-2022-world-cups.html" Hidden="false" DestinationUniqueKey="191" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 90" Name="URL 90" DestinationURL="http://www.computerhistory.org/semiconductor/timeline/1965-ROM.html" Hidden="false" DestinationUniqueKey="192" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 91" Name="URL 91" DestinationURL="http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf" Hidden="false" DestinationUniqueKey="193" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 92" Name="URL 92" DestinationURL="http://smithsonianchips.si.edu/ice/cd/MEM96/SEC01.pdf" Hidden="false" DestinationUniqueKey="194" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 93" Name="URL 93" DestinationURL="https://web.eecs.umich.edu/~prabal/teaching/eecs373-f10/readings/rom-eprom-eeprom-technology.pdf" Hidden="false" DestinationUniqueKey="195" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 94" Name="URL 94" DestinationURL="http://www.computerhistory.org/semiconductor/timeline/1965-ROM.html" Hidden="false" DestinationUniqueKey="196" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 95" Name="URL 95" DestinationURL="http:/www.ausstats.abs.gov.au/ausstats/free.nsf/0/FAE37DAF57F82D9DCA2574FA00184F33/$File/63020_AUG1991.pdf" Hidden="false" DestinationUniqueKey="197" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 96" Name="URL 96" DestinationURL="http://archive.computerhistory.org/resources/access/text/2013/04/102723217-05-01-acc.pdf" Hidden="false" DestinationUniqueKey="198" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 97" Name="URL 97" DestinationURL="http://program-think.blogspot.com/" Hidden="false" DestinationUniqueKey="199" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 98" Name="URL 98" DestinationURL="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Hidden="false" DestinationUniqueKey="200" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 99" Name="URL 99" DestinationURL="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Hidden="false" DestinationUniqueKey="201" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 100" Name="URL 100" DestinationURL="http://program-think.blogspot.com/" Hidden="false" DestinationUniqueKey="202" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 101" Name="URL 101" DestinationURL="http://www.nytimes.com/2008/02/04/world/asia/04china.html" Hidden="false" DestinationUniqueKey="203" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 102" Name="URL 102" DestinationURL="https://www.globalwebindex.net/blog/social-q3-2014" Hidden="false" DestinationUniqueKey="204" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 103" Name="URL 103" DestinationURL="http://www.nytimes.com/2015/08/18/opinion/murong-xuecun-scaling-chinas-great-firewall.html" Hidden="false" DestinationUniqueKey="205" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 104" Name="URL 104" DestinationURL="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Hidden="false" DestinationUniqueKey="206" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 105" Name="URL 105" DestinationURL="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373" Hidden="false" DestinationUniqueKey="207" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 106" Name="URL 106" DestinationURL="http://www.businessspectator.com.au/article/2015/4/21/technology/turnbulls-piracy-crackdown-and-fate-vpns" Hidden="false" DestinationUniqueKey="208" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 107" Name="URL 107" DestinationURL="https://www.choice.com.au/electronics-and-technology/internet/using-online-services/articles/digital-pricing-and-the-australia-tax" Hidden="false" DestinationUniqueKey="209" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 108" Name="URL 108" DestinationURL="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Hidden="false" DestinationUniqueKey="210" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 109" Name="URL 109" DestinationURL="http://www.ibvpn.com/australia-vpn-service/" Hidden="false" DestinationUniqueKey="211" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 110" Name="URL 110" DestinationURL="http://nic.suzor.net/2013/07/22/using-a-vpn-to-access-netflix-is-it-legal/" Hidden="false" DestinationUniqueKey="212" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 111" Name="URL 111" DestinationURL="http://mumbrella.com.au/cjz-boss-calls-for-a-clampdown-on-australians-using-vpns-to-access-content-287634" Hidden="false" DestinationUniqueKey="213" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 112" Name="URL 112" DestinationURL="https://theconversation.com/unlocking-the-geoblock-australians-embrace-vpns-32373." Hidden="false" DestinationUniqueKey="214" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 113" Name="URL 113" DestinationURL="http://www.aph.gov.au/About_Parliament/Parliamentary_Departments/Parliamentary_Library/Publications_Archive/CIB/CIB9697/97cib15" Hidden="false" DestinationUniqueKey="215" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 114" Name="URL 114" DestinationURL="http://www.abc.net.au/news/2013-03-23/choice-tells-australians-to-become-digital/4590164" Hidden="false" DestinationUniqueKey="216" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 115" Name="URL 115" DestinationURL="http://www.edhusic.com/it-pricing-inquiry-to-go-ahead/" Hidden="false" DestinationUniqueKey="217" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 116" Name="URL 116" DestinationURL="numbering.xml" Hidden="false" DestinationUniqueKey="218" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 117" Name="URL 117" DestinationURL="../customXml/item1.xml" Hidden="false" DestinationUniqueKey="219" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 118" Name="URL 118" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" DestinationUniqueKey="220" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 119" Name="URL 119" DestinationURL="http://www.teknolojioku.com/haber/turkiyeden-netflix-izlemek-mumkun-olabilir-mi-26053.html" Hidden="false" DestinationUniqueKey="221" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 120" Name="URL 120" DestinationURL="http://www.turkiye-e-konomi.com/Turkey-Online-Turkish.pdf" Hidden="false" DestinationUniqueKey="222" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 121" Name="URL 121" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" DestinationUniqueKey="223" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 122" Name="URL 122" DestinationURL="http://engelliweb.com/istatistikler/numbering.xml" Hidden="false" DestinationUniqueKey="224" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 123" Name="URL 123" DestinationURL="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Hidden="false" DestinationUniqueKey="225" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 124" Name="URL 124" DestinationURL="http://cyber-rights.org.tr/docs/5651_Tasari_Rapor.pdf" Hidden="false" DestinationUniqueKey="226" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 125" Name="URL 125" DestinationURL="http://bianet.org/bianet/ifade-ozgurlugu/142923-aihm-karari-5651-sayili-yasa-aihs-e-aykiri" Hidden="false" DestinationUniqueKey="227" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 126" Name="URL 126" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" DestinationUniqueKey="228" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 127" Name="URL 127" DestinationURL="http://www.turkstat.gov.tr/PreHaberBultenleri.do?id=16198" Hidden="false" DestinationUniqueKey="229" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 128" Name="URL 128" DestinationURL="http://www.hollywoodreporter.com/news/hbo-nordic-joint-venture-netflix-scandinavia-382920" Hidden="false" DestinationUniqueKey="230" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 129" Name="URL 129" DestinationURL="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/" Hidden="false" DestinationUniqueKey="231" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 130" Name="URL 130" DestinationURL="https://5july.org/2014/11/16/lex-integrity/" Hidden="false" DestinationUniqueKey="232" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 131" Name="URL 131" DestinationURL="https://www.flashback.org/p37334359#p37334359" Hidden="false" DestinationUniqueKey="233" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 132" Name="URL 132" DestinationURL="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece" Hidden="false" DestinationUniqueKey="234" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 133" Name="URL 133" DestinationURL="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering" Hidden="false" DestinationUniqueKey="235" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 134" Name="URL 134" DestinationURL="https://www.google.com/trends/topcharts#vm=cat&amp;geo=SE&amp;date=2012&amp;cid" Hidden="false" DestinationUniqueKey="236" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 135" Name="URL 135" DestinationURL="http://www.forvaltningsrattenistockholm.domstol.se/%20Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Hidden="false" DestinationUniqueKey="237" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 136" Name="URL 136" DestinationURL="https://www.flashback.org/t2449802" Hidden="false" DestinationUniqueKey="238" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 137" Name="URL 137" DestinationURL="https://www.flashback.org/t926057" Hidden="false" DestinationUniqueKey="239" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 138" Name="URL 138" DestinationURL="https://www.flashback.org/t2516629" Hidden="false" DestinationUniqueKey="240" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 139" Name="URL 139" DestinationURL="https://www.flashback.org/" Hidden="false" DestinationUniqueKey="241" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 140" Name="URL 140" DestinationURL="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf" Hidden="false" DestinationUniqueKey="242" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 141" Name="URL 141" DestinationURL="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd" Hidden="false" DestinationUniqueKey="243" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 142" Name="URL 142" DestinationURL="http://www.svt.se/nyheter/inrikes/strommande-film-okar-nar-nedladdning-minskar" Hidden="false" DestinationUniqueKey="244" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 143" Name="URL 143" DestinationURL="https://www.flashback.org/p36938188#p36938188" Hidden="false" DestinationUniqueKey="245" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 144" Name="URL 144" DestinationURL="https://www.flashback.org/p36938188#p36938188" Hidden="false" DestinationUniqueKey="246" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 145" Name="URL 145" DestinationURL="https://www.bahnhof.se/press/press-releases/2014/11/16/bahnhof-aktiverar-plan-b-erbjuder-fri-anonymisering" Hidden="false" DestinationUniqueKey="247" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 146" Name="URL 146" DestinationURL="https://5july.org/2014/11/16/lex-integrity/" Hidden="false" DestinationUniqueKey="248" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 147" Name="URL 147" DestinationURL="http://www.forvaltningsrattenistockholm.domstol.se/Domstolar/lansrattenistockholm/Pressmeddelande/14891-14.pdf" Hidden="false" DestinationUniqueKey="249" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 148" Name="URL 148" DestinationURL="http://www.zdnet.com/article/four-of-swedens-telcos-stop-storing-customer-data-after-eu-retention-directive-overthrown/" Hidden="false" DestinationUniqueKey="250" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 149" Name="URL 149" DestinationURL="http://curia.europa.eu/jcms/upload/docs/application/pdf/2014-04/cp140054en.pdf" Hidden="false" DestinationUniqueKey="251" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 150" Name="URL 150" DestinationURL="http://www.nyteknik.se/nyheter/it_telekom/tv/article3560911.ece" Hidden="false" DestinationUniqueKey="252" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 151" Name="URL 151" DestinationURL="http://www.svd.se/nyheter/inrikes/svensk-illegal-streaming-vaxer-snabbt_8129082.svd" Hidden="false" DestinationUniqueKey="253" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 152" Name="URL 152" DestinationURL="http://variety.com/2014/digital/news/netflix-streaming-eats-up-35-of-downstream-internet-bandwidth-usage-study-1201360914/" Hidden="false" DestinationUniqueKey="254" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 153" Name="URL 153" DestinationURL="http://www.wsj.com/articles/scandal-in-malaysia-1436113149" Hidden="false" DestinationUniqueKey="255" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 154" Name="URL 154" DestinationURL="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/" Hidden="false" DestinationUniqueKey="256" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 155" Name="URL 155" DestinationURL="http://www.thestar.com.my/News/Nation/2012/09/15/Rais-Malaysia-will-stop-access-to-Innocence-of-Muslims-film/" Hidden="false" DestinationUniqueKey="257" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 156" Name="URL 156" DestinationURL="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos" Hidden="false" DestinationUniqueKey="258" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 157" Name="URL 157" DestinationURL="http://www.internetworldstats.com/stats3.htm" Hidden="false" DestinationUniqueKey="259" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 158" Name="URL 158" DestinationURL="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/" Hidden="false" DestinationUniqueKey="260" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 159" Name="URL 159" DestinationURL="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media" Hidden="false" DestinationUniqueKey="261" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 160" Name="URL 160" DestinationURL="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix" Hidden="false" DestinationUniqueKey="262" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 161" Name="URL 161" DestinationURL="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation" Hidden="false" DestinationUniqueKey="263" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 162" Name="URL 162" DestinationURL="http://www.wsj.com/articles/scandal-in-malaysia-1436113149" Hidden="false" DestinationUniqueKey="264" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 163" Name="URL 163" DestinationURL="http://www.digitalnewsasia.com/digital-economy/govt-stealthily-gazettes-evidence-act-amendment-law-is-now-in-operation" Hidden="false" DestinationUniqueKey="265" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 164" Name="URL 164" DestinationURL="http://www.themalaymailonline.com/malaysia/article/with-revised-sedition-act-only-cute-kittens-left-on-social-media" Hidden="false" DestinationUniqueKey="266" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 165" Name="URL 165" DestinationURL="http://www.themalaymailonline.com/malaysia/article/rewind-the-year-youtube-recaps-2014s-top-videos" Hidden="false" DestinationUniqueKey="267" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 166" Name="URL 166" DestinationURL="https://www.techinasia.com/iflix-brings-hollywood-to-southeast-asia/" Hidden="false" DestinationUniqueKey="268" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 167" Name="URL 167" DestinationURL="https://forum.lowyat.net/topic/905692/all" Hidden="false" DestinationUniqueKey="269" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 168" Name="URL 168" DestinationURL="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf" Hidden="false" DestinationUniqueKey="270" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 169" Name="URL 169" DestinationURL="http://www.internetworldstats.com/stats3.htm" Hidden="false" DestinationUniqueKey="271" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 170" Name="URL 170" DestinationURL="https://www.digitalnewsasia.com/startups/netflix-type-wars-grove-catcha-takes-on-singtel-hooq-with-iflix" Hidden="false" DestinationUniqueKey="272" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 171" Name="URL 171" DestinationURL="http://e27.co/140-mobile-penetration-malaysia-10m-smartphone-users/" Hidden="false" DestinationUniqueKey="273" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 172" Name="URL 172" DestinationURL="http://www.thestar.com.my/News/Nation/2014/05/04/Our-Internet-not-so-broadband-after-all-Speed-slower-than-Vietnam-and-Cambodia/" Hidden="false" DestinationUniqueKey="274" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 173" Name="URL 173" DestinationURL="http://www.adtechkl.com/images/ppt/mda_kenneth_wong.pdf" Hidden="false" DestinationUniqueKey="275" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 174" Name="URL 174" DestinationURL="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/" Hidden="false" DestinationUniqueKey="276" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 175" Name="URL 175" DestinationURL="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html" Hidden="false" DestinationUniqueKey="277" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 176" Name="URL 176" DestinationURL="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF" Hidden="false" DestinationUniqueKey="278" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 177" Name="URL 177" DestinationURL="http://www.globalwebindex.net/blog/vpn-infographic" Hidden="false" DestinationUniqueKey="279" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 178" Name="URL 178" DestinationURL="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf" Hidden="false" DestinationUniqueKey="280" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 179" Name="URL 179" DestinationURL="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml" Hidden="false" DestinationUniqueKey="281" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 180" Name="URL 180" DestinationURL="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml" Hidden="false" DestinationUniqueKey="282" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 181" Name="URL 181" DestinationURL="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf" Hidden="false" DestinationUniqueKey="283" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 182" Name="URL 182" DestinationURL="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=3522" Hidden="false" DestinationUniqueKey="284" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 183" Name="URL 183" DestinationURL="https://www.indexoncensorship.org/2014/06/brazil-towards-internet-bill-rights/" Hidden="false" DestinationUniqueKey="285" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 184" Name="URL 184" DestinationURL="http://direitorio.fgv.br/sites/direitorio.fgv.br/files/Marco%20Civil%20-%20English%20Version%20sept2011.pdf" Hidden="false" DestinationUniqueKey="286" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 185" Name="URL 185" DestinationURL="http://www.nielsen.com/br/pt/press-room/2014/Numero-de-pessoas-com-acesso-a-internet-no-Brasil-supera-120-milhoes.html" Hidden="false" DestinationUniqueKey="287" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 186" Name="URL 186" DestinationURL="http://f5.folha.uol.com.br/colunistas/ricardofeltrin/2014/03/1421563-assinante-de-tv-gasta-ate-r-300-por-mes-e-so-ve-globo.shtml" Hidden="false" DestinationUniqueKey="288" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 187" Name="URL 187" DestinationURL="http://www.anatel.gov.br/Portal/exibirPortalNoticias.do?acao=carregaNoticia&amp;codigo=35223" Hidden="false" DestinationUniqueKey="289" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 188" Name="URL 188" DestinationURL="http://veja.abril.com.br/110401/p_142.html" Hidden="false" DestinationUniqueKey="290" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 189" Name="URL 189" DestinationURL="http://www.unirevista.unisinos.br/_pdf/UNIrev_Messa.PDF" Hidden="false" DestinationUniqueKey="291" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 190" Name="URL 190" DestinationURL="http://desafios2.ipea.gov.br/portal/images/stories/PDFs/comunicado/120510_comunicadoipea0147.pdf" Hidden="false" DestinationUniqueKey="292" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 191" Name="URL 191" DestinationURL="http://www.globalwebindex.net/blog/vpn-infographic" Hidden="false" DestinationUniqueKey="293" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 192" Name="URL 192" DestinationURL="http://info.abril.com.br/noticias/internet/2015/01/netflix-bloqueia-usuarios-que-burlam-restricao-geografica.shtml" Hidden="false" DestinationUniqueKey="294" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 193" Name="URL 193" DestinationURL="https://tecnoblog.net/172153/netflix-bloqueio-acesso-vpn/" Hidden="false" DestinationUniqueKey="295" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 194" Name="URL 194" DestinationURL="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Hidden="false" DestinationUniqueKey="296" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 195" Name="URL 195" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" DestinationUniqueKey="297" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 196" Name="URL 196" DestinationURL="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Hidden="false" DestinationUniqueKey="298" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 197" Name="URL 197" DestinationURL="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Hidden="false" DestinationUniqueKey="299" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 198" Name="URL 198" DestinationURL="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Hidden="false" DestinationUniqueKey="300" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 199" Name="URL 199" DestinationURL="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Hidden="false" DestinationUniqueKey="301" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 200" Name="URL 200" DestinationURL="http://www.mehrnews.com/news/" Hidden="false" DestinationUniqueKey="302" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 201" Name="URL 201" DestinationURL="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Hidden="false" DestinationUniqueKey="303" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 202" Name="URL 202" DestinationURL="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Hidden="false" DestinationUniqueKey="304" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 203" Name="URL 203" DestinationURL="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Hidden="false" DestinationUniqueKey="305" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 204" Name="URL 204" DestinationURL="http://www.iriu.ir/matma/;" Hidden="false" DestinationUniqueKey="306" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 205" Name="URL 205" DestinationURL="http://isna.ir/fa/news/93061710204" Hidden="false" DestinationUniqueKey="307" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 206" Name="URL 206" DestinationURL="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Hidden="false" DestinationUniqueKey="308" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 207" Name="URL 207" DestinationURL="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Hidden="false" DestinationUniqueKey="309" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 208" Name="URL 208" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" DestinationUniqueKey="310" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 209" Name="URL 209" DestinationURL="http://smallmedia.org.uk/revolutiondecoded/" Hidden="false" DestinationUniqueKey="311" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 210" Name="URL 210" DestinationURL="http://america.aljazeera.com/articles/2013/12/19/iranian-ministermediabansmayseemlaughablein5years.html" Hidden="false" DestinationUniqueKey="312" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 211" Name="URL 211" DestinationURL="http://www.al-monitor.com/pulse/originals/2014/09/iran-3g-phones-filter-unsanitary-water.html#" Hidden="false" DestinationUniqueKey="313" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 212" Name="URL 212" DestinationURL="https://www.washingtonpost.com/news/the-switch/wp/2013/08/15/heres-how-iran-censors-the-internet/" Hidden="false" DestinationUniqueKey="314" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 213" Name="URL 213" DestinationURL="https://citizenlab.org/2012/05/iranian-anti-censorship-software-simurgh-circulated-with-malicious-backdoor-2/" Hidden="false" DestinationUniqueKey="315" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 214" Name="URL 214" DestinationURL="http://transparency-for-iran.org/wp-content/uploads/TFI-Report.pdf" Hidden="false" DestinationUniqueKey="316" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 215" Name="URL 215" DestinationURL="http://www.dailydot.com/politics/iran-censorship-circumvention-tech/" Hidden="false" DestinationUniqueKey="317" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 216" Name="URL 216" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" DestinationUniqueKey="318" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 217" Name="URL 217" DestinationURL="https://freedomhouse.org/sites/default/files/LOtF_Iran.pdf" Hidden="false" DestinationUniqueKey="319" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 218" Name="URL 218" DestinationURL="http://www.theguardian.com/world/2013/jul/02/iran-president-hassan-rouhani-progressive-views" Hidden="false" DestinationUniqueKey="320" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 219" Name="URL 219" DestinationURL="http://smallmedia.org.uk/" Hidden="false" DestinationUniqueKey="321" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 220" Name="URL 220" DestinationURL="http://isna.ir/fa/news/" Hidden="false" DestinationUniqueKey="322" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 221" Name="URL 221" DestinationURL="http://www.wsj.com/articles/SB10001424052748704889404576277391449002016" Hidden="false" DestinationUniqueKey="323" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 222" Name="URL 222" DestinationURL="http://www.smallmedia.org.uk/" Hidden="false" DestinationUniqueKey="324" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 223" Name="URL 223" DestinationURL="http://www.nytimes.com/2014/09/03/world/asia/iran-speeds-up-cellphone-connections.html" Hidden="false" DestinationUniqueKey="325" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 224" Name="URL 224" DestinationURL="http://smallmedia.org.uk/revolutiondecoded/" Hidden="false" DestinationUniqueKey="326" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 225" Name="URL 225" DestinationURL="http://www.mehrnews.com/news/" Hidden="false" DestinationUniqueKey="327" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 226" Name="URL 226" DestinationURL="http://data.worldbank.org/indicator/IT.NET.USER.P2" Hidden="false" DestinationUniqueKey="328" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 227" Name="URL 227" DestinationURL="http://www.iriu.ir/matma/" Hidden="false" DestinationUniqueKey="329" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 228" Name="URL 228" DestinationURL="http://www.nytimes.com/2014/06/25/opinion/breaking-the-law-to-go-online-in-iran.html" Hidden="false" DestinationUniqueKey="330" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 229" Name="URL 229" DestinationURL="http://www.one.cu/ticis2014.html" Hidden="false" DestinationUniqueKey="331" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 230" Name="URL 230" DestinationURL="https://www.fas.org/sgp/crs/row/R41837.pdf" Hidden="false" DestinationUniqueKey="332" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 231" Name="URL 231" DestinationURL="http://www.itu.int/en/ITU-D/Statistics/Documents/publications/mis2014/MIS2014_without_Annex_4.pdf" Hidden="false" DestinationUniqueKey="333" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 232" Name="URL 232" DestinationURL="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es" Hidden="false" DestinationUniqueKey="334" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 233" Name="URL 233" DestinationURL="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf" Hidden="false" DestinationUniqueKey="335" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 234" Name="URL 234" DestinationURL="https://www.fas.org/sgp/crs/row/R41837.pdf" Hidden="false" DestinationUniqueKey="336" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 235" Name="URL 235" DestinationURL="https://telos.fundaciontelefonica.com/url-direct/pdf-generator?tipoContenido=articuloTelos&amp;idContenido=2014070113270001&amp;idioma=es" Hidden="false" DestinationUniqueKey="337" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 236" Name="URL 236" DestinationURL="http://www.bimestrecubana.cult.cu/ojs/index.php/revistabimestre/article/viewArticle/177" Hidden="false" DestinationUniqueKey="338" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 237" Name="URL 237" DestinationURL="http://www.one.cu/ticis2014.html" Hidden="false" DestinationUniqueKey="339" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 238" Name="URL 238" DestinationURL="http://caribeña.eumed.net/wp-content/uploads/pirateria-cuba.pdf" Hidden="false" DestinationUniqueKey="340" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 239" Name="URL 239" DestinationURL="http://mashable.com/2015/03/12/nielsen-ratings-2014" Hidden="false" DestinationUniqueKey="341" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 240" Name="URL 240" DestinationURL="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Hidden="false" DestinationUniqueKey="342" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 241" Name="URL 241" DestinationURL="http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk" Hidden="false" DestinationUniqueKey="343" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 242" Name="URL 242" DestinationURL="https://support.google.com/youtube/answer/2797370?hl=en" Hidden="false" DestinationUniqueKey="344" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 243" Name="URL 243" DestinationURL="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Hidden="false" DestinationUniqueKey="345" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 244" Name="URL 244" DestinationURL="https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829" Hidden="false" DestinationUniqueKey="346" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 245" Name="URL 245" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="347" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 246" Name="URL 246" DestinationURL="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Hidden="false" DestinationUniqueKey="348" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 247" Name="URL 247" DestinationURL="http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame" Hidden="false" DestinationUniqueKey="349" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 248" Name="URL 248" DestinationURL="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Hidden="false" DestinationUniqueKey="350" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 249" Name="URL 249" DestinationURL="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Hidden="false" DestinationUniqueKey="351" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 250" Name="URL 250" DestinationURL="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Hidden="false" DestinationUniqueKey="352" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 251" Name="URL 251" DestinationURL="http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame" Hidden="false" DestinationUniqueKey="353" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 252" Name="URL 252" DestinationURL="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Hidden="false" DestinationUniqueKey="354" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 253" Name="URL 253" DestinationURL="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Hidden="false" DestinationUniqueKey="355" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 254" Name="URL 254" DestinationURL="https://support.google.com/youtube/answer/2797370?hl=en" Hidden="false" DestinationUniqueKey="356" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 255" Name="URL 255" DestinationURL="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Hidden="false" DestinationUniqueKey="357" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 256" Name="URL 256" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="358" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 257" Name="URL 257" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="359" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 258" Name="URL 258" DestinationURL="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Hidden="false" DestinationUniqueKey="360" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 259" Name="URL 259" DestinationURL="http://mashable.com/2015/03/12/nielsen-ratings-2014" Hidden="false" DestinationUniqueKey="361" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 260" Name="URL 260" DestinationURL="http://mashable.com/2015/03/12/nielsen-ratings-2014" Hidden="false" DestinationUniqueKey="362" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 261" Name="URL 261" DestinationURL="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Hidden="false" DestinationUniqueKey="363" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 262" Name="URL 262" DestinationURL="http://lifehacker.com/5504681/how-to-access-the-bbc-iplayer-and-tv-like-doctor-who-from-outside-the-uk" Hidden="false" DestinationUniqueKey="364" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 263" Name="URL 263" DestinationURL="https://support.google.com/youtube/answer/2797370?hl=en" Hidden="false" DestinationUniqueKey="365" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 264" Name="URL 264" DestinationURL="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Hidden="false" DestinationUniqueKey="366" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 265" Name="URL 265" DestinationURL="https://torrentfreak.com/find-out-whos-using-the-pirate-bay-and-why-130829" Hidden="false" DestinationUniqueKey="367" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 266" Name="URL 266" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="368" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 267" Name="URL 267" DestinationURL="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Hidden="false" DestinationUniqueKey="369" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 268" Name="URL 268" DestinationURL="http://flowtv.org/2014/01/access-is-elementary-crossing-television%E2%80%99s-distribution-borders-christine-becker-university-of-notre-dame" Hidden="false" DestinationUniqueKey="370" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 269" Name="URL 269" DestinationURL="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Hidden="false" DestinationUniqueKey="371" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 270" Name="URL 270" DestinationURL="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Hidden="false" DestinationUniqueKey="372" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 271" Name="URL 271" DestinationURL="http://mondoweiss.net/2013/08/exclusive-al-jazeera-englishs-online-us-broadcast-to-end-with-the-launch-of-al-jazeera-america" Hidden="false" DestinationUniqueKey="373" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 272" Name="URL 272" DestinationURL="http://flowtv.org/2014/01/access-is-elementary-crossing-television’s-distribution-borders-christine-becker-university-of-notre-dame" Hidden="false" DestinationUniqueKey="374" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 273" Name="URL 273" DestinationURL="https://gigaom.com/2013/09/24/al-jazeera-english-unblocks-its-youtube-videos-for-us-based-viewers" Hidden="false" DestinationUniqueKey="375" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 274" Name="URL 274" DestinationURL="http://www.newstatesman.com/blogs/business/2012/06/bbc-iplayers-us-rollout-blocked-cable-networks" Hidden="false" DestinationUniqueKey="376" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 275" Name="URL 275" DestinationURL="https://support.google.com/youtube/answer/2797370?hl=en" Hidden="false" DestinationUniqueKey="377" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 276" Name="URL 276" DestinationURL="http://howto.wired.com/wiki/Access_Pandora_From_Anywhere_in_the_World" Hidden="false" DestinationUniqueKey="378" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 277" Name="URL 277" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="379" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 278" Name="URL 278" DestinationURL="https://www.privateinternetaccess.com/pages/buy-vpn" Hidden="false" DestinationUniqueKey="380" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 279" Name="URL 279" DestinationURL="http://www.spiegel.de/international/germany/inside-the-nsa-s-war-on-internet-security-a-1010361.html" Hidden="false" DestinationUniqueKey="381" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 280" Name="URL 280" DestinationURL="http://mashable.com/2015/03/12/nielsen-ratings-2014" Hidden="false" DestinationUniqueKey="382" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 281" Name="URL 281" DestinationURL="http://www.networkcultures.org" Hidden="false" DestinationUniqueKey="383" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 7" Name="URL 7" DestinationURL="http://www.networkcultures.org" Hidden="false" DestinationUniqueKey="774" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 8" Name="URL 8" DestinationURL="http://www.networkcultures.org" Hidden="false" DestinationUniqueKey="775" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 282" Name="URL 282" DestinationURL="http://www.networkcultures.org" Hidden="false" DestinationUniqueKey="793" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 283" Name="URL 283" DestinationURL="http://www.thestar.com/News/article/221760" Hidden="false" DestinationUniqueKey="794" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 284" Name="URL 284" DestinationURL="http://www.theglobeandmail.com/servlet/story/LAC.20070606.NATS06-4/TPStory/National" Hidden="false" DestinationUniqueKey="795" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 285" Name="URL 285" DestinationURL="http://washingtontimes.com/upi/20060611-023518-2050r.htm" Hidden="false" DestinationUniqueKey="796" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 286" Name="URL 286" DestinationURL="http://www.ctv.ca/servlet/ArticleNews/story/CTVNews/20070619/cdn_no_fly_list_070619/20070619?hub=Canada" Hidden="false" DestinationUniqueKey="797" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 287" Name="URL 287" DestinationURL="http://www.theglobeandmail.com/servlet/story/LAC.20070619.NOFLY19/PPVStory?URL_Article_ID=LAC.20070619.NOFLY19&amp;DENIED=1" Hidden="false" DestinationUniqueKey="798" />
+	<HyperlinkURLDestination Self="HyperlinkURLDestination/URL 288" Name="URL 288" DestinationURL="http://www.cbc.ca/canada/ottawa/story/2007/06/18/no-fly-list.html" Hidden="false" DestinationUniqueKey="799" />
+	<ColorGroup Self="ColorGroup/[Root Color Group]" Name="[Root Color Group]" IsRootColorGroup="true">
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch0" SwatchItemRef="Swatch/None" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch1" SwatchItemRef="Color/Registration" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch2" SwatchItemRef="Color/Paper" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch3" SwatchItemRef="Color/Black" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch4" SwatchItemRef="Color/R=147 G=44 B=101" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch5" SwatchItemRef="Color/C=100 M=90 Y=10 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch6" SwatchItemRef="Color/C=100 M=0 Y=0 K=0" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch7" SwatchItemRef="Color/R=147 G=44 B=101 2" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch8" SwatchItemRef="Color/C=91 M=23 Y=100 K=41" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatch9" SwatchItemRef="Color/C=45 M=5 Y=7 K=14" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatcha" SwatchItemRef="Color/C=33 M=18 Y=25 K=7" />
+		<ColorGroupSwatch Self="uea4ColorGroupSwatchb" SwatchItemRef="Color/#989c96" />
+	</ColorGroup>
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Symbol" Name="$ID/kIndexGroup_Symbol" Include="true" Priority="0" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Alphabet" Name="$ID/kIndexGroup_Alphabet" Include="true" Priority="1" HeaderType="BasicLatin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Numeric" Name="$ID/kIndexGroup_Numeric" Include="false" Priority="2" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_GreekAlphabet" Name="$ID/kWRIndexGroup_GreekAlphabet" Include="false" Priority="3" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_CyrillicAlphabet" Name="$ID/kWRIndexGroup_CyrillicAlphabet" Include="false" Priority="4" HeaderType="Russian" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Kana" Name="$ID/kIndexGroup_Kana" Include="false" Priority="5" HeaderType="HiraganaAll" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Chinese" Name="$ID/kIndexGroup_Chinese" Include="false" Priority="6" HeaderType="ChinesePinyin" />
+	<IndexingSortOption Self="dIndexingSortOptionnkIndexGroup_Korean" Name="$ID/kIndexGroup_Korean" Include="false" Priority="7" HeaderType="KoreanConsonant" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_ArabicAlphabet" Name="$ID/kWRIndexGroup_ArabicAlphabet" Include="false" Priority="8" HeaderType="Nothing" />
+	<IndexingSortOption Self="dIndexingSortOptionnkWRIndexGroup_HebrewAlphabet" Name="$ID/kWRIndexGroup_HebrewAlphabet" Include="false" Priority="9" HeaderType="Nothing" />
+	<ABullet Self="dABullet0" CharacterType="UnicodeOnly" CharacterValue="8226">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet1" CharacterType="UnicodeOnly" CharacterValue="42">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet2" CharacterType="UnicodeOnly" CharacterValue="9674">
+		<Properties>
+			<BulletsFont type="string">$ID/</BulletsFont>
+			<BulletsFontStyle type="string">$ID/</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet3" CharacterType="UnicodeWithFont" CharacterValue="187">
+		<Properties>
+			<BulletsFont type="string">Myriad Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<ABullet Self="dABullet4" CharacterType="GlyphWithFont" CharacterValue="503">
+		<Properties>
+			<BulletsFont type="string">Minion Pro</BulletsFont>
+			<BulletsFontStyle type="string">$ID/Regular</BulletsFontStyle>
+		</Properties>
+	</ABullet>
+	<Assignment Self="ud0" Name="Unassigned InCopy Content" UserName="$ID/" ExportOptions="AssignedSpreads" IncludeLinksWhenPackage="true" FilePath="$ID/">
+		<Properties>
+			<FrameColor type="enumeration">Nothing</FrameColor>
+		</Properties>
+	</Assignment>
+</Document>

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<idPkg:Story xmlns:idPkg="http://ns.adobe.com/AdobeInDesign/idml/1.0/packaging" DOMVersion="13.1">
+	<Story Self="u3d14" UserText="true" IsEndnoteStory="false" AppliedTOCStyle="n" TrackChanges="false" StoryTitle="$ID/" AppliedNamedGrid="n">
+		<StoryPreference OpticalMarginAlignment="false" OpticalMarginSize="12" FrameType="TextFrameType" StoryOrientation="Horizontal" StoryDirection="LeftToRightDirection" />
+		<InCopyExportOption IncludeGraphicProxies="true" IncludeAllResources="false" />
+		<ParagraphStyleRange AppliedParagraphStyle="ParagraphStyle/Table of Contents%3asub-paragraphs">
+			<Properties>
+				<ParagraphShadingColor type="object">Color/R=147 G=44 B=101</ParagraphShadingColor>
+			</Properties>
+			<CharacterStyleRange AppliedCharacterStyle="CharacterStyle/Italic" FontStyle="Regular">
+				<Properties>
+					<AppliedFont type="string">TradeGothic LT Bold</AppliedFont>
+				</Properties>
+			</CharacterStyleRange>
+		</ParagraphStyleRange>
+	</Story>
+</idPkg:Story>
