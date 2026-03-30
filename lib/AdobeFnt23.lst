@@ -1,0 +1,169 @@
+%!Adobe-FontList 1.23
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/.DS_Store
+FileLength:6148
+FileModTime:732456358
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/AdobeFnt23.lst
+FileLength:4133
+FileModTime:718109369
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-BoldItalic
+FamilyName:EB Garamond
+StyleName:Bold Italic
+MenuName:EB Garamond
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:EB Garamond Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/EBGaramond-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:496196
+FileModTime:685517230
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EBGaramond08-Italic
+FamilyName:EB Garamond
+StyleName:08 Italic
+MenuName:EB Garamond 08
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:EB Garamond 08 Italic
+WritingScript:Roman
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/EBGaramond08-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:200656
+FileModTime:418603495
+DesignSize:80
+NameArray:0,Mac,18,EB Garamond 08 Italic
+NameArray:0,Mac,4,EB Garamond 08 Italic
+NameArray:0,Win,1,EB Garamond 08
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EBGaramond08-Regular
+FamilyName:EB Garamond
+StyleName:08 Regular
+MenuName:EB Garamond 08
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:EB Garamond 08 Regular
+WritingScript:Roman
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/EBGaramond08-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:259968
+FileModTime:418603495
+DesignSize:80
+NameArray:0,Mac,18,EB Garamond 08 Regular
+NameArray:0,Mac,4,EB Garamond 08 Regular
+NameArray:0,Win,1,EB Garamond 08
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSerifJP-Regular
+FamilyName:Noto Serif JP
+StyleName:Regular
+MenuName:Noto Serif JP
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif JP
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Japanese
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/NotoSerifJP-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:6169440
+FileModTime:686013084
+NameArray:0,Win,1,Noto Serif JP
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPS-BoldMT
+FamilyName:Times New Roman
+StyleName:Bold
+MenuName:Times New Roman
+StyleBits:2
+WeightClass:700
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman Bold
+WritingScript:Roman
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/Times New Roman Bold.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:842168
+FileModTime:718109368
+NameArray:0,Mac,4,Times New Roman Bold
+NameArray:0,Win,1,Times New Roman
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:TimesNewRomanPSMT
+FamilyName:Times New Roman
+StyleName:Regular
+MenuName:Times New Roman
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Times New Roman
+WritingScript:Roman
+OutlineFileName:/Users/alexwalker/PROJECTS/2023/Institute of Network Cultures/Clean file/INC_nn1_Semiotics of the End Folder/Document fonts/Times New Roman.ttf
+DataFormat:sfntData
+hasSVG:no
+VariableFontType:NonVariableFont
+FileLength:834452
+FileModTime:718109368
+NameArray:0,Mac,4,Times New Roman
+NameArray:0,Win,1,Times New Roman
+%EndFont
+

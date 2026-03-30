@@ -1,0 +1,131 @@
+%!Adobe-FontList 1.24
+%Locale:0x409
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/AdobeFnt23.lst
+FileLength:4384
+FileModTime:732456436
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Invalid
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/AdobeFnt24.lst
+FileLength:3026
+FileModTime:732457523
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:TrueType
+FontName:EBGaramond-BoldItalic
+FamilyName:EB Garamond
+StyleName:Bold Italic
+MenuName:EB Garamond
+StyleBits:3
+WeightClass:700
+WidthClass:5
+AngleClass:1
+FullName:EB Garamond Bold Italic
+WritingScript:Roman
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/EBGaramond-BoldItalic.ttf
+DataFormat:sfntData
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:496196
+FileModTime:732456436
+NameArray:0,Win,1,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EBGaramond08-Italic
+FamilyName:EB Garamond
+StyleName:08 Italic
+MenuName:EB Garamond 08
+StyleBits:1
+WeightClass:400
+WidthClass:5
+AngleClass:1
+FullName:EB Garamond 08 Italic
+WritingScript:Roman
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/EBGaramond08-Italic.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:200656
+FileModTime:732456436
+DesignSize:80
+NameArray:0,Mac,18,EB Garamond 08 Italic
+NameArray:0,Mac,4,EB Garamond 08 Italic
+NameArray:0,Win,1,EB Garamond 08
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:Type1
+FontName:EBGaramond08-Regular
+FamilyName:EB Garamond
+StyleName:08 Regular
+MenuName:EB Garamond 08
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:EB Garamond 08 Regular
+WritingScript:Roman
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/EBGaramond08-Regular.otf
+DataFormat:sfntData
+UsesStandardEncoding:yes
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:259968
+FileModTime:732456436
+DesignSize:80
+NameArray:0,Mac,18,EB Garamond 08 Regular
+NameArray:0,Mac,4,EB Garamond 08 Regular
+NameArray:0,Win,1,EB Garamond 08
+NameArray:0,Win,16,EB Garamond
+%EndFont
+
+%BeginFont
+Handler:DirectoryHandler
+FontType:CID
+FontName:NotoSerifJP-Regular
+FamilyName:Noto Serif JP
+StyleName:Regular
+MenuName:Noto Serif JP
+StyleBits:0
+WeightClass:400
+WidthClass:5
+AngleClass:0
+FullName:Noto Serif JP
+FamilyNameNative:
+StyleNameNative:Regular
+FullNameNative:
+WritingScript:Japanese
+OutlineFileName:/Users/tommaso/Downloads/INC_nn1_Semiotics of the End and template/Document fonts/NotoSerifJP-Regular.otf
+DataFormat:sfntData
+isCFF:yes
+hasSVG:no
+hasSBIX:no
+hasCOLR:no
+VariableFontType:NonVariableFont
+FileLength:6169440
+FileModTime:732456436
+NameArray:0,Win,1,Noto Serif JP
+%EndFont
+
